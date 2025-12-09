@@ -1,0 +1,3818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+<Document>
+	<name>PT2AS-25-TMG-FAU047-KANDANGAN.kml</name>
+	<Style id="h_kabel_D09">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="h_odp81">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/forbidden.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="h_tiang">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="icon-1899-0288D1-highlight4101">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="icon-1899-0288D1-normal1001">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="icon-1899-0288D1011">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-0288D1-normal1001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-0288D1-highlight4101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="ihld-point-calang">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#ihld-point-calang-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#ihld-point-calang-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="ihld-point-calang-highlight">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="ihld-point-calang-normal">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="m_figure_eight12">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_figure_eight22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#m_figure_eight12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#m_figure_eight32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="m_figure_eight32">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_kabel_9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_kabel_D09</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#h_kabel_D09</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_odp4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_odp20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#h_odp81</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_tiang">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_tiang</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#h_tiang</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_poly-project">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_poly-project</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_poly-project</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-circle112110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-circle101030</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-circle02010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-stars">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-stars</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-stars</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_kabel_D09">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_odp20">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/forbidden.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_tiang">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_poly-project">
+		<LineStyle>
+			<color>ff0affff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660affff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_wht-circle02010">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_wht-stars">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_poly-project">
+		<LineStyle>
+			<color>ff0affff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660affff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_wht-circle101030">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_wht-stars">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>PT2AS-25-TMG-FAU047-KANDANGAN</name>
+		<open>1</open>
+		<Folder>
+			<name>PT2Expand_ODP-TMG-FAU/047</name>
+			<Folder>
+				<name>STO</name>
+			</Folder>
+			<Folder>
+				<name>POLYGON</name>
+				<Folder>
+					<name>REGIONAL</name>
+				</Folder>
+				<Folder>
+					<name>WITEL</name>
+				</Folder>
+				<Folder>
+					<name>STO</name>
+				</Folder>
+				<Folder>
+					<name>ODC</name>
+				</Folder>
+				<Folder>
+					<name>PROJECT</name>
+					<Placemark>
+						<name>PT2Expand_ODP-TMG-FAU/047</name>
+						<styleUrl>#msn_poly-project</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										110.19851772,-7.244035539999999,0 110.19851772,-7.24628384,0 110.20078412,-7.24628384,0 110.20078412,-7.244035539999999,0 110.19851772,-7.244035539999999,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+				</Folder>
+			</Folder>
+			<Folder>
+				<name>HOUSEHOLD</name>
+				<visibility>0</visibility>
+				<Placemark>
+					<name>6293251</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19915161,-7.245381450000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293252</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19993322,-7.245721659999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293253</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19973448,-7.24559501,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293254</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.200089,-7.24503034,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293255</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.20000774,-7.244974119999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293256</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.20017868,-7.244604579999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293257</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.20035844,-7.24424803,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293258</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19866722,-7.24434472,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293259</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19921885,-7.24510653,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293260</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.1996285,-7.2445337,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293261</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19987388,-7.24621032,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293262</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.1988995,-7.24593838,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293263</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19991046,-7.24486696,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293264</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19861424,-7.24508226,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293265</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19956955,-7.24620681,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293266</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.1986866,-7.24441567,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293267</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19945206,-7.24508327,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293268</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19990659,-7.24409596,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293269</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19903691,-7.245724120000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293270</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19940596,-7.24499746,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293271</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19978164,-7.244038230000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293272</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.20019299,-7.24407335,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293273</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19874844,-7.24488527,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293274</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19862534,-7.24414203,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293275</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19932614,-7.24434863,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293276</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19972596,-7.24439374,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293277</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.1994016,-7.24546532,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293278</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19974771,-7.245209209999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293279</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19949369,-7.24485754,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293280</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.20016253,-7.24441847,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293281</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19894424,-7.24580056,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293282</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19947492,-7.24627545,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293283</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.1990449,-7.24581309,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293284</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19977703,-7.2454946,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293285</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.20004452,-7.24404708,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293286</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19960928708,-7.2445612331157,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293287</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19927893,-7.24451238,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293288</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19883947,-7.24439874,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293289</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19926494,-7.244875540000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293290</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19998096,-7.2443493,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293291</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19875835,-7.244717129999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293292</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19930442,-7.246112240000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293293</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19939919,-7.24446507,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293294</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19924508,-7.24497206,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293295</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19901319,-7.24598368,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293296</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19914668,-7.24600688,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293297</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19934447,-7.244635,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293298</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19959045,-7.244687519999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293299</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19900225,-7.24549826,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293300</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19937326,-7.245608219999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293301</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19950085,-7.24423281,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293302</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19863229,-7.2445875,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293303</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19942279,-7.24615438,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293304</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19880891,-7.244602019999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293305</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.1990857,-7.245622149999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293306</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19956229,-7.24477199,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293307</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19851856,-7.24413112,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293308</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19869693,-7.2448032,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293309</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.20018522,-7.245282309999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293310</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19991097,-7.245257490000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293311</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.20032577,-7.24476985,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293312</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19941722,-7.24420853,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293313</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.20012125,-7.24478472,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293314</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.20016832161,-7.2447754139333,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6293315</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.19853272,-7.24529833,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>NEW PLANNING</name>
+				<Folder>
+					<name>DISTRIBUSI</name>
+					<Folder>
+						<name>TIANG</name>
+					</Folder>
+					<Folder>
+						<name>ODC</name>
+					</Folder>
+					<Folder>
+						<name>CLOSURE</name>
+					</Folder>
+					<Folder>
+						<name>MH/HH</name>
+					</Folder>
+					<Folder>
+						<name>UNDERGROUND</name>
+						<Folder>
+							<name>PIPA</name>
+						</Folder>
+						<Folder>
+							<name>GALIAN</name>
+						</Folder>
+						<Folder>
+							<name>BORING</name>
+						</Folder>
+					</Folder>
+					<Folder>
+						<name>CALANG</name>
+					</Folder>
+					<Folder>
+						<name>ODP</name>
+					</Folder>
+					<Folder>
+						<name>KABEL DISTRIBUSI</name>
+					</Folder>
+					<Folder>
+						<name>KABEL DROP</name>
+					</Folder>
+					<Folder>
+						<name>RUTE DUCT</name>
+					</Folder>
+					<Folder>
+						<name>BTS</name>
+					</Folder>
+					<Folder>
+						<name>SLACK</name>
+					</Folder>
+					<Folder>
+						<name>OTHER</name>
+					</Folder>
+				</Folder>
+				<Folder>
+					<name>FEEDER</name>
+					<Folder>
+						<name>TIANG</name>
+					</Folder>
+					<Folder>
+						<name>UNDERGROUND</name>
+						<Folder>
+							<name>PIPA</name>
+						</Folder>
+						<Folder>
+							<name>GALIAN</name>
+						</Folder>
+						<Folder>
+							<name>BORING</name>
+						</Folder>
+					</Folder>
+					<Folder>
+						<name>MH/HH</name>
+					</Folder>
+					<Folder>
+						<name>KABEL FEEDER</name>
+					</Folder>
+					<Folder>
+						<name>CLOSURE</name>
+					</Folder>
+					<Folder>
+						<name>ODC</name>
+					</Folder>
+					<Folder>
+						<name>RUTE DUCT</name>
+					</Folder>
+					<Folder>
+						<name>MINI OLT</name>
+					</Folder>
+					<Folder>
+						<name>OTN</name>
+					</Folder>
+					<Folder>
+						<name>BTS</name>
+					</Folder>
+					<Folder>
+						<name>SHELTER</name>
+					</Folder>
+					<Folder>
+						<name>SLACK</name>
+					</Folder>
+					<Folder>
+						<name>OTHER</name>
+					</Folder>
+				</Folder>
+				<Folder>
+					<name>BACKBONE</name>
+					<Folder>
+						<name>TIANG</name>
+					</Folder>
+					<Folder>
+						<name>MINI OLT</name>
+					</Folder>
+					<Folder>
+						<name>UNDERGROUND</name>
+						<Folder>
+							<name>PIPA</name>
+						</Folder>
+						<Folder>
+							<name>GALIAN</name>
+						</Folder>
+						<Folder>
+							<name>BORING</name>
+						</Folder>
+					</Folder>
+					<Folder>
+						<name>MH/HH</name>
+					</Folder>
+					<Folder>
+						<name>KABEL FEEDER</name>
+					</Folder>
+					<Folder>
+						<name>CLOSURE</name>
+					</Folder>
+					<Folder>
+						<name>RUTE DUCT</name>
+					</Folder>
+					<Folder>
+						<name>ODC</name>
+					</Folder>
+					<Folder>
+						<name>ODP</name>
+					</Folder>
+					<Folder>
+						<name>OTN</name>
+					</Folder>
+					<Folder>
+						<name>BTS</name>
+					</Folder>
+					<Folder>
+						<name>SHELTER</name>
+					</Folder>
+					<Folder>
+						<name>SLACK</name>
+					</Folder>
+					<Folder>
+						<name>OTHER</name>
+					</Folder>
+				</Folder>
+			</Folder>
+			<Folder>
+				<name>EKSISTING</name>
+				<Folder>
+					<name>DISTRIBUSI</name>
+					<Folder>
+						<name>TIANG</name>
+					</Folder>
+					<Folder>
+						<name>ODC</name>
+					</Folder>
+					<Folder>
+						<name>CLOSURE</name>
+					</Folder>
+					<Folder>
+						<name>MH/HH</name>
+					</Folder>
+					<Folder>
+						<name>CALANG</name>
+					</Folder>
+					<Folder>
+						<name>ODP</name>
+					</Folder>
+					<Folder>
+						<name>KABEL DISTRIBUSI</name>
+					</Folder>
+					<Folder>
+						<name>RUTE DUCT</name>
+					</Folder>
+					<Folder>
+						<name>UNDERGROUND</name>
+						<Folder>
+							<name>PIPA</name>
+						</Folder>
+						<Folder>
+							<name>GALIAN</name>
+						</Folder>
+						<Folder>
+							<name>BORING</name>
+						</Folder>
+					</Folder>
+					<Folder>
+						<name>KABEL DROP</name>
+					</Folder>
+					<Folder>
+						<name>BTS</name>
+					</Folder>
+					<Folder>
+						<name>SLACK</name>
+					</Folder>
+					<Folder>
+						<name>OTHER</name>
+					</Folder>
+				</Folder>
+				<Folder>
+					<name>FEEDER</name>
+					<Folder>
+						<name>TIANG</name>
+					</Folder>
+					<Folder>
+						<name>MH/HH</name>
+					</Folder>
+					<Folder>
+						<name>KABEL FEEDER</name>
+					</Folder>
+					<Folder>
+						<name>CLOSURE</name>
+					</Folder>
+					<Folder>
+						<name>ODC</name>
+					</Folder>
+					<Folder>
+						<name>UNDERGROUND</name>
+						<Folder>
+							<name>PIPA</name>
+						</Folder>
+						<Folder>
+							<name>GALIAN</name>
+						</Folder>
+						<Folder>
+							<name>BORING</name>
+						</Folder>
+					</Folder>
+					<Folder>
+						<name>RUTE DUCT</name>
+					</Folder>
+					<Folder>
+						<name>MINI OLT</name>
+					</Folder>
+					<Folder>
+						<name>OTN</name>
+					</Folder>
+					<Folder>
+						<name>BTS</name>
+					</Folder>
+					<Folder>
+						<name>SHELTER</name>
+					</Folder>
+					<Folder>
+						<name>SLACK</name>
+					</Folder>
+					<Folder>
+						<name>OTHER</name>
+					</Folder>
+				</Folder>
+				<Folder>
+					<name>BACKBONE</name>
+					<Folder>
+						<name>TIANG</name>
+					</Folder>
+					<Folder>
+						<name>MINI OLT</name>
+					</Folder>
+					<Folder>
+						<name>MH/HH</name>
+					</Folder>
+					<Folder>
+						<name>KABEL FEEDER</name>
+					</Folder>
+					<Folder>
+						<name>CLOSURE</name>
+					</Folder>
+					<Folder>
+						<name>UNDERGROUND</name>
+						<Folder>
+							<name>PIPA</name>
+						</Folder>
+						<Folder>
+							<name>GALIAN</name>
+						</Folder>
+						<Folder>
+							<name>BORING</name>
+						</Folder>
+					</Folder>
+					<Folder>
+						<name>RUTE DUCT</name>
+					</Folder>
+					<Folder>
+						<name>ODC</name>
+					</Folder>
+					<Folder>
+						<name>ODP</name>
+					</Folder>
+					<Folder>
+						<name>OTN</name>
+					</Folder>
+					<Folder>
+						<name>BTS</name>
+					</Folder>
+					<Folder>
+						<name>SHELTER</name>
+					</Folder>
+					<Folder>
+						<name>SLACK</name>
+					</Folder>
+					<Folder>
+						<name>OTHER</name>
+					</Folder>
+				</Folder>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>EXISTING</name>
+			<open>1</open>
+			<Folder>
+				<name>ODC</name>
+				<Placemark>
+					<name>ODC-TMG-FAU</name>
+					<description><![CDATA[NO: 293<br>WITEL: MAGELANG<br>DATEL: TEMANGGUNG<br>STO: TMG<br>KODE: FAU<br>DESCRIPTION: ODC-C-144<br>DETAILS: Jalan Raya Kandangan Seberang Toko Balun<br>KELURAHAN: Caruban <br>KECAMATAN: Kandangan<br>KOTA / KABUPATEN:  <br>KAP: 144<br>SEGMEN FEEDER: <br>CORE: <br>RAK OA: <br>PANEL OA: <br>KABEL: <br>JARAK: <br>DECS: KANDANGAN<br>JUMLAH CORE MASUK: 48<br>CORE USED: 14<br>SISA CORE FEEDER: 34<br>OKUPANSI FEEDER: 29.17%<br>KET FEEDER: 14<br>TANGGAL UPDATE: 01/12/2021<br>TYPE: <br>PEMBANGUNAN: <br>NODES: <br>AREA_CODE: <br>REGION: R4<br>LATITUDE:  -7.261960°<br>LONGITUDE: 110.185422°<br>On Spec: <br>Position: POLE]]></description>
+					<styleUrl>#icon-1899-0288D1011</styleUrl>
+					<ExtendedData>
+						<Data name="NO">
+							<value>293.0</value>
+						</Data>
+						<Data name="WITEL">
+							<value>MAGELANG</value>
+						</Data>
+						<Data name="DATEL">
+							<value>TEMANGGUNG</value>
+						</Data>
+						<Data name="STO">
+							<value>TMG</value>
+						</Data>
+						<Data name="KODE">
+							<value>FAU</value>
+						</Data>
+						<Data name="DESCRIPTION">
+							<value>ODC-C-144</value>
+						</Data>
+						<Data name="DETAILS">
+							<value>Jalan Raya Kandangan Seberang Toko Balun</value>
+						</Data>
+						<Data name="KELURAHAN">
+							<value>Caruban</value>
+						</Data>
+						<Data name="KECAMATAN">
+							<value>Kandangan</value>
+						</Data>
+						<Data name="KOTA / KABUPATEN">
+						</Data>
+						<Data name="KAP">
+							<value>144.0</value>
+						</Data>
+						<Data name="SEGMEN FEEDER">
+						</Data>
+						<Data name="CORE">
+						</Data>
+						<Data name="RAK OA">
+						</Data>
+						<Data name="PANEL OA">
+						</Data>
+						<Data name="KABEL">
+						</Data>
+						<Data name="JARAK">
+						</Data>
+						<Data name="DECS">
+							<value>KANDANGAN</value>
+						</Data>
+						<Data name="JUMLAH CORE MASUK">
+							<value>48</value>
+						</Data>
+						<Data name="CORE USED">
+							<value>14</value>
+						</Data>
+						<Data name="SISA CORE FEEDER">
+							<value>34</value>
+						</Data>
+						<Data name="OKUPANSI FEEDER">
+							<value>29.17%</value>
+						</Data>
+						<Data name="KET FEEDER">
+							<value>14</value>
+						</Data>
+						<Data name="TANGGAL UPDATE">
+							<value>01/12/2021</value>
+						</Data>
+						<Data name="TYPE">
+						</Data>
+						<Data name="PEMBANGUNAN">
+						</Data>
+						<Data name="NODES">
+						</Data>
+						<Data name="AREA_CODE">
+						</Data>
+						<Data name="REGION">
+							<value>R4</value>
+						</Data>
+						<Data name="LATITUDE">
+							<value>-7.261960°</value>
+						</Data>
+						<Data name="LONGITUDE">
+							<value>110.185422°</value>
+						</Data>
+						<Data name="On Spec">
+						</Data>
+						<Data name="Position">
+							<value>POLE</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>110.185422,-7.26196,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>DIS.09</name>
+				<Folder>
+					<name>TIANG</name>
+					<visibility>0</visibility>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1895140068426,-7.25429903959425,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1894849912589,-7.2544800160679,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1894249837979,-7.254975042342861,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1894050411986,-7.255363984931277,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1894510349411,-7.255731031427966,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1895290087078,-7.255959016628272,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1943550279087,-7.246163004310763,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1912165838006,-7.242279505985611,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1915874981814,-7.242344122396135,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1910444665921,-7.242483901167102,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1910158103346,-7.242709030727871,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1910123967365,-7.243175019197584,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1909249906593,-7.24387757622246,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1927333891578,-7.242220430672903,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1924108939708,-7.242256447845994,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1920308167741,-7.242312216368441,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1936181398811,-7.242472729591155,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1941575782092,-7.242584624087857,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1931639516735,-7.242316148764092,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1933809846461,-7.245775039740493,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1929820428284,-7.24572096956346,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1938470306155,-7.245868969905974,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1917148792887,-7.245427918069008,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1918390264609,-7.245558848379683,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1921670013712,-7.245587000627606,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1917084114186,-7.245727583105991,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1915923490839,-7.245877549635015,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1925189612995,-7.245634993504819,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1908697442694,-7.244192792713981,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1908357879516,-7.244346155719325,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1907908721874,-7.244548584110667,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1913579786263,-7.244561006866574,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1913101882532,-7.245311823527493,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1910530005873,-7.245243989987451,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1907094848227,-7.244867196450048,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1906192041366,-7.245162124995011,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1913945400583,-7.246150849699486,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1914620035362,-7.246057634548777,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1911254047992,-7.246522995202394,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1949940894018,-7.242635566464652,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1945970340462,-7.242635030229112,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.195517897044,-7.242640124466598,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1959332780314,-7.242981348921588,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1908862732706,-7.246853582505365,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1906593588298,-7.247291505431065,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1904807737514,-7.248571668767325,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1905830020307,-7.24783855121812,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1905405117177,-7.248143666916328,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1905205691184,-7.248286572553847,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1904484344011,-7.248803499270994,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1904590345215,-7.249306394245775,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1904379241123,-7.249837440940189,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1901653752551,-7.250273485208991,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1898859992017,-7.250669401374401,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1895974603325,-7.250964506236151,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1892861940865,-7.251282758191189,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1891227007048,-7.251697799278106,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.189445734881,-7.254121637919395,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1888184413181,-7.252346546258427,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1890083451691,-7.252077538421978,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1885935930025,-7.252735222183636,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.188383566889,-7.253186279030272,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.188214414121,-7.253533039397677,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1883939873463,-7.254081689022209,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1888348804878,-7.254096077775143,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1881148807875,-7.253730728479239,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1879312651435,-7.254027798224456,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1880820922797,-7.253795880067657,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1880311578031,-7.254037360936791,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1871793752507,-7.254014124439285,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1875188485965,-7.254022972182664,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1867396499191,-7.25403593099851,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1867769300034,-7.254034054204512,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1858004612896,-7.25410438929068,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1863807729631,-7.254057380072487,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1861933843948,-7.254068998320618,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1857030839127,-7.254113147661793,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1856790090631,-7.25436705100535,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1856821531666,-7.25469155739821,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1856633783772,-7.254981208943478,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1856499934795,-7.255261118932105,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1856534969091,-7.25574550951815,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1856331949836,-7.256152504598102,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1856013946226,-7.256555388385046,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1855909741653,-7.256687120966388,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1855646535275,-7.257081961079541,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1855488431785,-7.257430953797461,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1855156953445,-7.257690039444709,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-C7.0-250
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1855099461266,-7.257902652258932,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1855041969088,-7.258115175638345,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1854831763312,-7.25857239560979,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1854771576188,-7.25885793451488,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.185476169472,-7.25890547963588,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1854674558137,-7.259286644822585,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1854634133949,-7.259247768664093,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1854853322879,-7.259459666044394,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1854392487138,-7.259759771967785,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1854309842132,-7.259968988082317,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1854211925766,-7.260200904206661,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1854105924562,-7.260509589365054,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1853943329496,-7.260755536447074,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.185386248112,-7.260977621583559,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1853688207955,-7.261194344435951,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.185365497029,-7.261388814039694,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1853573223599,-7.261549412288668,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1853460934188,-7.261768816069866,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1853919973298,-7.262044701705039,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1853239050313,-7.262069993450437,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.2018950372459,-7.244459033014914,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.2015059768964,-7.244365013289369,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.2023169759349,-7.24450202111719,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.2027249907369,-7.24450202111719,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.2034929604733,-7.244921981670907,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.2031269868266,-7.244921981670907,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.2027779913387,-7.244916976822195,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.2034580160088,-7.245389041146148,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.2034710415804,-7.245877996495902,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.2034970028921,-7.246342016686239,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.2033050329159,-7.246411995051333,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.2028079950692,-7.246410028864918,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.2006750352586,-7.244145961579831,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.2003019649211,-7.244055963570931,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.2011179945252,-7.244266971794158,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.2032510441673,-7.246934017348828,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-400NM
+Construction Status: Planned
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.2029030368262,-7.24687297624069,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1983333069759,-7.242585964676755,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1994258380245,-7.242910476490741,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1988975388059,-7.242747192817805,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1996162808647,-7.243933791478924,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1976851724985,-7.243018259781248,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1977433876956,-7.24242096266238,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1973180310418,-7.243504535599479,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1975743203924,-7.243545646937985,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1998634073994,-7.243016382957924,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.199740428037,-7.243451895208204,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1964534924124,-7.243244819131733,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>TE</name>
+						<visibility>0</visibility>
+						<description>Designator:PU-S7.0-140
+Construction Status: In Service
+Material Type:Steel
+Usage:Telco</description>
+						<styleUrl>#m_tiang</styleUrl>
+						<Point>
+							<coordinates>110.1969120823649,-7.24338584893923,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+				<Folder>
+					<name>ODP</name>
+					<Placemark>
+						<name>ODP-TMG-FAU/048</name>
+						<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP: ;
+CableName:</description>
+						<LookAt>
+							<longitude>110.1990155059265</longitude>
+							<latitude>-7.243182938570284</latitude>
+							<altitude>0</altitude>
+							<heading>-1.201285717695461e-05</heading>
+							<tilt>0</tilt>
+							<range>539.0499508021705</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>110.199856,-7.243125,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-TMG-FAU/049</name>
+						<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP: ;
+CableName:</description>
+						<LookAt>
+							<gx:TimeSpan>
+								<begin>2015-09-01T03:38:12Z</begin>
+								<end>2017-04-07T04:07:47Z</end>
+							</gx:TimeSpan>
+							<longitude>110.1984661534907</longitude>
+							<latitude>-7.242919840169922</latitude>
+							<altitude>0</altitude>
+							<heading>-0.1192250510180915</heading>
+							<tilt>0.01461052038498073</tilt>
+							<range>489.041575415635</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>110.197736,-7.242533,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-TMG-FAU/050</name>
+						<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Planned ;
+TITO:NO ;
+Core Dist. ke ODP: ;
+CableName;
+
+ Sawit, Kandangan, Temanggung Regency, Central Java 56281</description>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<coordinates>110.196503,-7.243283,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-TMG-FAU/051</name>
+						<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP: ;
+CableName:</description>
+						<LookAt>
+							<gx:TimeSpan>
+								<begin>2015-06-10T04:02:26Z</begin>
+								<end>2019-01-02T07:46:03Z</end>
+							</gx:TimeSpan>
+							<longitude>110.1926420209992</longitude>
+							<latitude>-7.241902009063791</latitude>
+							<altitude>0</altitude>
+							<heading>-0.001366327309392658</heading>
+							<tilt>24.60920021173517</tilt>
+							<range>472.7602609585018</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>110.194016,-7.24263,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-TMG-FAU/052</name>
+						<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Planned ;
+TITO:NO ;
+Core Dist. ke ODP: ;
+CableName;
+
+E-Warong PKH Mart Sejahtera
+Sedong, Gesing, Kandangan, Kabupaten Temanggung, Jawa Tengah 56281</description>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<coordinates>110.191192,-7.242304,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-TMG-FAU/123</name>
+						<description>Network Type:Distribution
+Specification ID:ODP Solid-PB-8 AS
+Type: breaking
+Construction Status:Planned
+Construction Type:Closure
+Splice Type:breaking
+Splice Method:Fusion</description>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<coordinates>110.1909709844019,-7.243445996624214,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-TMG-FAU/124</name>
+						<description>Network Type:Distribution
+Specification ID:ODP Solid-PB-8 AS
+Type: breaking
+Construction Status:Planned
+Construction Type:Closure
+Splice Type:breaking
+Splice Method:Fusion</description>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<coordinates>110.1913579786263,-7.244561006866574,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-TMG-FAU/125</name>
+						<description>Network Type:Distribution
+Specification ID:ODP Solid-PB-8 AS
+Type: breaking
+Construction Status:Planned
+Construction Type:Closure
+Splice Type:breaking
+Splice Method:Fusion</description>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<coordinates>110.1908357879516,-7.244346155719325,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-TMG-FAU/126</name>
+						<description>Network Type:Distribution
+Specification ID:ODP Solid-PB-8 AS
+Type: breaking
+Construction Status:Planned
+Construction Type:Closure
+Splice Type:breaking
+Splice Method:Fusion</description>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<coordinates>110.1906192041366,-7.245162124995011,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-TMG-FAU/127</name>
+						<description>Network Type:Distribution
+Specification ID:ODP Solid-PB-8 AS
+Type: breaking
+Construction Status:Planned
+Construction Type:Closure
+Splice Type:breaking
+Splice Method:Fusion</description>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<coordinates>110.1913101882532,-7.245311823527493,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-TMG-FAU/128</name>
+						<description>Network Type:Distribution
+Specification ID:ODP Solid-PB-8 AS
+Type: breaking
+Construction Status:Planned
+Construction Type:Closure
+Splice Type:breaking
+Splice Method:Fusion</description>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<coordinates>110.1908862732706,-7.246853582505365,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-TMG-FAU/129</name>
+						<description>Network Type:Distribution
+Specification ID:ODP Solid-PB-8 AS
+Type: breaking
+Construction Status:Planned
+Construction Type:Closure
+Splice Type:breaking
+Splice Method:Fusion</description>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<coordinates>110.1943550279087,-7.246163004310763,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-TMG-FAU/130</name>
+						<description>Network Type:Distribution
+Specification ID:ODP Solid-PB-8 AS
+Type: breaking
+Construction Status:Planned
+Construction Type:Closure
+Splice Type:breaking
+Splice Method:Fusion</description>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<coordinates>110.1925189612995,-7.245634993504819,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-TMG-FAU/131</name>
+						<description>Network Type:Distribution
+Specification ID:ODP Solid-PB-8 AS
+Type: breaking
+Construction Status:Planned
+Construction Type:Closure
+Splice Type:breaking
+Splice Method:Fusion</description>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<coordinates>110.2032510441673,-7.246934017348828,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-TMG-FAU/132</name>
+						<description>Network Type:Distribution
+Specification ID:ODP Solid-PB-8 AS
+Type: breaking
+Construction Status:Planned
+Construction Type:Closure
+Splice Type:breaking
+Splice Method:Fusion</description>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<coordinates>110.2028079950692,-7.246410028864918,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-TMG-FAU/133</name>
+						<description>Network Type:Distribution
+Specification ID:ODP Solid-PB-8 AS
+Type: breaking
+Construction Status:Planned
+Construction Type:Closure
+Splice Type:breaking
+Splice Method:Fusion</description>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<coordinates>110.2027779913387,-7.244916976822195,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-TMG-FAU/134</name>
+						<description>Network Type:Distribution
+Specification ID:ODP Solid-PB-8 AS
+Type: breaking
+Construction Status:Planned
+Construction Type:Closure
+Splice Type:breaking
+Splice Method:Fusion</description>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<coordinates>110.202778,-7.244035,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-TMG-FAU/135</name>
+						<description>Network Type:Distribution
+Specification ID:ODP Solid-PB-8 AS
+Type: breaking
+Construction Status:Planned
+Construction Type:Closure
+Splice Type:breaking
+Splice Method:Fusion</description>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<coordinates>110.2003019649211,-7.244055963570931,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-TMG-FAU/144</name>
+						<description>Network Type:Distribution
+Specification ID:ODP Solid-PB-8 AS
+Type: breaking
+Construction Status:Planned
+Construction Type:Closure
+Splice Type:breaking
+Splice Method:Fusion</description>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<coordinates>110.1895290087078,-7.255959016628272,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-TMG-FAU/145</name>
+						<description>Network Type:Distribution
+Specification ID:ODP Solid-PB-8 AS
+Type: breaking
+Construction Status:Planned
+Construction Type:Closure
+Splice Type:breaking
+Splice Method:Fusion</description>
+						<styleUrl>#msn_wht-circle112110</styleUrl>
+						<Point>
+							<coordinates>110.1894050411986,-7.255363984931277,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+				<Folder>
+					<name>KABEL</name>
+					<Placemark>
+						<name>DS-TMG-FE-13-03/09-01</name>
+						<description>Network Type: Distribution
+Specification: AC-OF-SM-ADSS-24D
+Number of Core: 24
+Fiber Length: 2297m
+Construction Status: Planned</description>
+						<styleUrl>#m_kabel_9</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								110.1853964889063,-7.261981159542093,0 110.1853919973298,-7.262044701705039,0 110.1853919973298,-7.262044701705039,0 110.1853239050313,-7.262069993450437,0 110.1853239050313,-7.262069993450437,0 110.1853460934188,-7.261768816069866,0 110.1853460934188,-7.261768816069866,0 110.1853573223599,-7.261549412288668,0 110.1853573223599,-7.261549412288668,0 110.185365497029,-7.261388814039694,0 110.185365497029,-7.261388814039694,0 110.1853688207955,-7.261194344435951,0 110.1853688207955,-7.261194344435951,0 110.185386248112,-7.260977621583559,0 110.185386248112,-7.260977621583559,0 110.1853943329496,-7.260755536447074,0 110.1853943329496,-7.260755536447074,0 110.1854105924562,-7.260509589365054,0 110.1854105924562,-7.260509589365054,0 110.1854211925766,-7.260200904206661,0 110.1854211925766,-7.260200904206661,0 110.1854309842132,-7.259968988082317,0 110.1854309842132,-7.259968988082317,0 110.1854392487138,-7.259759771967785,0 110.1854392487138,-7.259759771967785,0 110.1854853322879,-7.259459666044394,0 110.1854853322879,-7.259459666044394,0 110.1854674558137,-7.259286644822585,0 110.1854674558137,-7.259286644822585,0 110.1854634133949,-7.259247768664093,0 110.1854634133949,-7.259247768664093,0 110.185476169472,-7.25890547963588,0 110.185476169472,-7.25890547963588,0 110.1854771576188,-7.25885793451488,0 110.1854771576188,-7.25885793451488,0 110.1854831763312,-7.25857239560979,0 110.1854831763312,-7.25857239560979,0 110.1855041969088,-7.258115175638345,0 110.1855041969088,-7.258115175638345,0 110.1855099461266,-7.257902652258932,0 110.1855099461266,-7.257902652258932,0 110.1855156953445,-7.257690039444709,0 110.1855156953445,-7.257690039444709,0 110.185547405874,-7.25746321662385,0 110.185547405874,-7.25746321662385,0 110.1855488431785,-7.257430953797461,0 110.1855488431785,-7.257430953797461,0 110.1855646535275,-7.257081961079541,0 110.1855646535275,-7.257081961079541,0 110.1855909741653,-7.256687120966388,0 110.1855909741653,-7.256687120966388,0 110.1856013946226,-7.256555388385046,0 110.1856013946226,-7.256555388385046,0 110.1856331949836,-7.256152504598102,0 110.1856331949836,-7.256152504598102,0 110.1856534969091,-7.25574550951815,0 110.1856534969091,-7.25574550951815,0 110.1856499934795,-7.255261118932105,0 110.1856499934795,-7.255261118932105,0 110.1856633783772,-7.254981208943478,0 110.1856633783772,-7.254981208943478,0 110.1856821531666,-7.25469155739821,0 110.1856821531666,-7.25469155739821,0 110.1856790090631,-7.25436705100535,0 110.1856790090631,-7.25436705100535,0 110.1857030839127,-7.254113147661793,0 110.1857030839127,-7.254113147661793,0 110.1858004612896,-7.25410438929068,0 110.1858004612896,-7.25410438929068,0 110.1861933843948,-7.254068998320618,0 110.1861933843948,-7.254068998320618,0 110.1863807729631,-7.254057380072487,0 110.1863807729631,-7.254057380072487,0 110.1867396499191,-7.25403593099851,0 110.1867396499191,-7.25403593099851,0 110.1867769300034,-7.254034054204512,0 110.1867769300034,-7.254034054204512,0 110.1871793752507,-7.254014124439285,0 110.1871793752507,-7.254014124439285,0 110.1875188485965,-7.254022972182664,0 110.1875188485965,-7.254022972182664,0 110.1879312651435,-7.254027798224456,0 110.1879312651435,-7.254027798224456,0 110.1880820922797,-7.253795880067657,0 110.1880820922797,-7.253795880067657,0 110.1881148807875,-7.253730728479239,0 110.1881148807875,-7.253730728479239,0 110.188214414121,-7.253533039397677,0 110.188214414121,-7.253533039397677,0 110.188383566889,-7.253186279030272,0 110.188383566889,-7.253186279030272,0 110.1885935930025,-7.252735222183636,0 110.1885935930025,-7.252735222183636,0 110.1888184413181,-7.252346546258427,0 110.1888184413181,-7.252346546258427,0 110.1890083451691,-7.252077538421978,0 110.1890083451691,-7.252077538421978,0 110.1891227007048,-7.251697799278106,0 110.1891227007048,-7.251697799278106,0 110.1892861940865,-7.251282758191189,0 110.1892861940865,-7.251282758191189,0 110.1895974603325,-7.250964506236151,0 110.1895974603325,-7.250964506236151,0 110.1898859992017,-7.250669401374401,0 110.1898859992017,-7.250669401374401,0 110.1901653752551,-7.250273485208991,0 110.1901653752551,-7.250273485208991,0 110.1904379241123,-7.249837440940189,0 110.1904379241123,-7.249837440940189,0 110.1904590345215,-7.249306394245775,0 110.1904590345215,-7.249306394245775,0 110.1904484344011,-7.248803499270994,0 110.1904484344011,-7.248803499270994,0 110.1904807737514,-7.248571668767325,0 110.1904807737514,-7.248571668767325,0 110.1905205691184,-7.248286572553847,0 110.1905205691184,-7.248286572553847,0 110.1905405117177,-7.248143666916328,0 110.1905405117177,-7.248143666916328,0 110.1905830020307,-7.24783855121812,0 110.1905830020307,-7.24783855121812,0 110.1906593588298,-7.247291505431065,0 110.1906593588298,-7.247291505431065,0 110.1908862732706,-7.246853582505365,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>DS-TMG-FE-13-03/09-02</name>
+						<description>Network Type: Distribution
+Specification: AC-OF-SM-ADSS-24D
+Number of Core: 24
+Fiber Length: 204m
+Construction Status: Planned</description>
+						<styleUrl>#m_kabel_9</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								110.1908862732706,-7.246853582505365,0 110.1911254047992,-7.246522995202394,0 110.1911254047992,-7.246522995202394,0 110.1913945400583,-7.246150849699486,0 110.1913945400583,-7.246150849699486,0 110.1914620035362,-7.246057634548777,0 110.1914620035362,-7.246057634548777,0 110.1915923490839,-7.245877549635015,0 110.1915923490839,-7.245877549635015,0 110.1917084114186,-7.245727583105991,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>DS-TMG-FE-13-03/09-02-01</name>
+						<description>Network Type: Distribution
+Specification: AC-OF-SM-ADSS-12D
+Number of Core: 12
+Fiber Length: 117m
+Construction Status: Planned</description>
+						<styleUrl>#m_kabel_9</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								110.1917084114186,-7.245727583105991,0 110.1921670013712,-7.245587000627606,0 110.1921670013712,-7.245587000627606,0 110.1925189612995,-7.245634993504819,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>DS-TMG-FE-13-03/09-02-02</name>
+						<description>Network Type: Distribution
+Specification: AC-OF-SM-ADSS-12D
+Number of Core: 12
+Fiber Length: 245m
+Construction Status: Planned</description>
+						<styleUrl>#m_kabel_9</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								110.1925189612995,-7.245634993504819,0 110.1929820428284,-7.24572096956346,0 110.1929820428284,-7.24572096956346,0 110.1933809846461,-7.245775039740493,0 110.1933809846461,-7.245775039740493,0 110.1938470306155,-7.245868969905974,0 110.1938470306155,-7.245868969905974,0 110.1943550279087,-7.246163004310763,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>DS-TMG-FE-13-03/09-03</name>
+						<description>Network Type: Distribution
+Specification: AC-OF-SM-ADSS-24D
+Number of Core: 24
+Fiber Length: 115m
+Construction Status: Planned</description>
+						<styleUrl>#m_kabel_9</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								110.1917084114186,-7.245727583105991,0 110.1918390264609,-7.245558848379683,0 110.1918390264609,-7.245558848379683,0 110.1917148792887,-7.245427918069008,0 110.1917148792887,-7.245427918069008,0 110.1913101882532,-7.245311823527493,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>DS-TMG-FE-13-03/09-04</name>
+						<description>Network Type: Distribution
+Specification: AC-OF-SM-ADSS-24D
+Number of Core: 24
+Fiber Length: 103m
+Construction Status: Planned</description>
+						<styleUrl>#m_kabel_9</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								110.1913101882532,-7.245311823527493,0 110.1910530005873,-7.245243989987451,0 110.1910530005873,-7.245243989987451,0 110.1906192041366,-7.245162124995011,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>DS-TMG-FE-13-03/09-05</name>
+						<description>Network Type: Distribution
+Specification: AC-OF-SM-ADSS-24D
+Number of Core: 24
+Fiber Length: 119m
+Construction Status: Planned</description>
+						<styleUrl>#m_kabel_9</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								110.1906192041366,-7.245162124995011,0 110.1907094848227,-7.244867196450048,0 110.1907094848227,-7.244867196450048,0 110.1907908721874,-7.244548584110667,0 110.1907908721874,-7.244548584110667,0 110.1908357879516,-7.244346155719325,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>DS-TMG-FE-13-03/09-05-01</name>
+						<description>Network Type: Distribution
+Specification: AC-OF-SM-ADSS-12D
+Number of Core: 12
+Fiber Length: 86m
+Construction Status: Planned</description>
+						<styleUrl>#m_kabel_9</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								110.1908357879516,-7.244346155719325,0 110.1913579786263,-7.244561006866574,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>DS-TMG-FE-13-03/09-06</name>
+						<description>Network Type: Distribution
+Specification: AC-OF-SM-ADSS-24D
+Number of Core: 24
+Fiber Length: 127m
+Construction Status: Planned</description>
+						<styleUrl>#m_kabel_9</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								110.1908357879516,-7.244346155719325,0 110.1908697442694,-7.244192792713981,0 110.1908697442694,-7.244192792713981,0 110.1909249906593,-7.24387757622246,0 110.1909249906593,-7.24387757622246,0 110.1909709844019,-7.243445996624214,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>DS-TMG-FE-13-03/09-01A-01</name>
+						<description>Network Type: Distribution
+Specification: AC-OF-SM-ADSS-12D
+Number of Core: 12
+Fiber Length: 369m
+Construction Status: Planned</description>
+						<styleUrl>#m_kabel_9</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								110.1879312651435,-7.254027798224456,0 110.1880311578031,-7.254037360936791,0 110.1880311578031,-7.254037360936791,0 110.1883939873463,-7.254081689022209,0 110.1883939873463,-7.254081689022209,0 110.1888348804878,-7.254096077775143,0 110.1888348804878,-7.254096077775143,0 110.189445734881,-7.254121637919395,0 110.189445734881,-7.254121637919395,0 110.1895140068426,-7.25429903959425,0 110.1895140068426,-7.25429903959425,0 110.1894849912589,-7.2544800160679,0 110.1894849912589,-7.2544800160679,0 110.1894249837979,-7.254975042342861,0 110.1894249837979,-7.254975042342861,0 110.1894050411986,-7.255363984931277,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>DS-TMG-FE-13-03/09-01A-02</name>
+						<description>Network Type: Distribution
+Specification: AC-OF-SM-ADSS-12D
+Number of Core: 12
+Fiber Length: 87m
+Construction Status: Planned</description>
+						<styleUrl>#m_kabel_9</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								110.1894050411986,-7.255363984931277,0 110.1894510349411,-7.255731031427966,0 110.1894510349411,-7.255731031427966,0 110.1895290087078,-7.255959016628272,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>DS-TMG-FE-13-03/09-06A-01</name>
+						<description>Network Type: Distribution
+Specification: AC-OF-SM-ADSS-24D
+Number of Core: 24
+Fiber Length: 1597m
+Construction Status: Planned</description>
+						<styleUrl>#m_kabel_9</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								110.1909709844019,-7.243445996624214,0 110.1910123967365,-7.243175019197584,0 110.1910123967365,-7.243175019197584,0 110.1910158103346,-7.242709030727871,0 110.1910158103346,-7.242709030727871,0 110.1910444665921,-7.242483901167102,0 110.1910444665921,-7.242483901167102,0 110.1912165838006,-7.242279505985611,0 110.1912165838006,-7.242279505985611,0 110.1915874981814,-7.242344122396135,0 110.1915874981814,-7.242344122396135,0 110.1920308167741,-7.242312216368441,0 110.1920308167741,-7.242312216368441,0 110.1924108939708,-7.242256447845994,0 110.1924108939708,-7.242256447845994,0 110.1927333891578,-7.242220430672903,0 110.1927333891578,-7.242220430672903,0 110.1931639516735,-7.242316148764092,0 110.1931639516735,-7.242316148764092,0 110.1936181398811,-7.242472729591155,0 110.1936181398811,-7.242472729591155,0 110.1941575782092,-7.242584624087857,0 110.1941575782092,-7.242584624087857,0 110.1945970340462,-7.242635030229112,0 110.1945970340462,-7.242635030229112,0 110.1949940894018,-7.242635566464652,0 110.1949940894018,-7.242635566464652,0 110.195517897044,-7.242640124466598,0 110.195517897044,-7.242640124466598,0 110.1959332780314,-7.242981348921588,0 110.1959332780314,-7.242981348921588,0 110.1964534924124,-7.243244819131733,0 110.1964534924124,-7.243244819131733,0 110.1969120823649,-7.24338584893923,0 110.1969120823649,-7.24338584893923,0 110.1973180310418,-7.243504535599479,0 110.1973180310418,-7.243504535599479,0 110.1975743203924,-7.243545646937985,0 110.1975743203924,-7.243545646937985,0 110.1976851724985,-7.243018259781248,0 110.1976851724985,-7.243018259781248,0 110.197748683389,-7.242410794370908,0 110.197748683389,-7.242410794370908,0 110.1983333069759,-7.242585964676755,0 110.1983333069759,-7.242585964676755,0 110.1988975388059,-7.242747192817805,0 110.1988975388059,-7.242747192817805,0 110.1994258380245,-7.242910476490741,0 110.1994258380245,-7.242910476490741,0 110.1998634073994,-7.243016382957924,0 110.1998634073994,-7.243016382957924,0 110.199740428037,-7.243451895208204,0 110.199740428037,-7.243451895208204,0 110.1996162808647,-7.243933791478924,0 110.1996162808647,-7.243933791478924,0 110.2003019649211,-7.244055963570931,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>DS-TMG-FE-13-03/09-06A-02</name>
+						<description>Network Type: Distribution
+Specification: AC-OF-SM-ADSS-24D
+Number of Core: 24
+Fiber Length: 370m
+Construction Status: Planned</description>
+						<styleUrl>#m_kabel_9</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								110.2003019649211,-7.244055963570931,0 110.2006750352586,-7.244145961579831,0 110.2006750352586,-7.244145961579831,0 110.2011179945252,-7.244266971794158,0 110.2011179945252,-7.244266971794158,0 110.2015059768964,-7.244365013289369,0 110.2015059768964,-7.244365013289369,0 110.2018950372459,-7.244459033014914,0 110.2018950372459,-7.244459033014914,0 110.2023169759349,-7.24450202111719,0 110.2023169759349,-7.24450202111719,0 110.2027249907369,-7.24450202111719,0 110.2027249907369,-7.24450202111719,0 110.2027879626384,-7.243964982453947,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>DS-TMG-FE-13-03/09-06A-03</name>
+						<description>Network Type: Distribution
+Specification: AC-OF-SM-ADSS-24D
+Number of Core: 24
+Fiber Length: 153m
+Construction Status: Planned</description>
+						<styleUrl>#m_kabel_9</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								110.2027879626384,-7.243964982453947,0 110.2027249907369,-7.24450202111719,0 110.2027249907369,-7.24450202111719,0 110.2027779913387,-7.244916976822195,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>DS-TMG-FE-13-03/09-06A-04</name>
+						<description>Network Type: Distribution
+Specification: AC-OF-SM-ADSS-24D
+Number of Core: 24
+Fiber Length: 371m
+Construction Status: Planned</description>
+						<styleUrl>#m_kabel_9</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								110.2027779913387,-7.244916976822195,0 110.2031269868266,-7.244921981670907,0 110.2031269868266,-7.244921981670907,0 110.2034929604733,-7.244921981670907,0 110.2034929604733,-7.244921981670907,0 110.2034580160088,-7.245389041146148,0 110.2034580160088,-7.245389041146148,0 110.2034710415804,-7.245877996495902,0 110.2034710415804,-7.245877996495902,0 110.2034970028921,-7.246342016686239,0 110.2034970028921,-7.246342016686239,0 110.2033050329159,-7.246411995051333,0 110.2033050329159,-7.246411995051333,0 110.2028079950692,-7.246410028864918,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>DS-TMG-FE-13-03/09-06A-05</name>
+						<description>Network Type: Distribution
+Specification: AC-OF-SM-ADSS-24D
+Number of Core: 24
+Fiber Length: 117m
+Construction Status: Planned</description>
+						<styleUrl>#m_kabel_9</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								110.2028079950692,-7.246410028864918,0 110.2029030368262,-7.24687297624069,0 110.2029030368262,-7.24687297624069,0 110.2032510441673,-7.246934017348828,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>DS-TMG-FE-13-03/09-06A-01G-01</name>
+						<description>Network Type: Distribution ;
+Specification: AC-OF-SM-12-SC ;
+Number of Core: ;
+Fiber Length: 773m ;
+Construction Status: In Planned ;</description>
+						<styleUrl>#m_kabel_9</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								110.1999379080564,-7.24307852184187,0 110.1997822818133,-7.243507367771844,0 110.1995540329751,-7.24428957934074,0 110.1994433648956,-7.244802536914311,0 110.1992047400387,-7.245351457464258,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+				</Folder>
+				<Folder>
+					<name>SLACK</name>
+					<Placemark>
+						<name>Slack Support HH</name>
+						<description>Name: unset
+Designator: Slack Support HH
+Asset Owner : Telkom
+Type: Figure Eight
+Construction Status: Planned
+Length : 20 Meter</description>
+						<styleUrl>#m_figure_eight22</styleUrl>
+						<Point>
+							<coordinates>110.2003019649211,-7.244055963570931,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Slack Support HH</name>
+						<description>Name: unset
+Designator: Slack Support HH
+Asset Owner : Telkom
+Type: Figure Eight
+Construction Status: Planned
+Length : 20 Meter</description>
+						<styleUrl>#m_figure_eight22</styleUrl>
+						<Point>
+							<coordinates>110.2027249907369,-7.24450202111719,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Slack Support HH</name>
+						<description>Name: unset
+Designator: Slack Support HH
+Asset Owner : Telkom
+Type: Figure Eight
+Construction Status: Planned
+Length : 20 Meter</description>
+						<styleUrl>#m_figure_eight22</styleUrl>
+						<Point>
+							<coordinates>110.2027779913387,-7.244916976822195,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Slack Support HH</name>
+						<description>Name: unset
+Designator: Slack Support HH
+Asset Owner : Telkom
+Type: Figure Eight
+Construction Status: Planned
+Length : 20 Meter</description>
+						<styleUrl>#m_figure_eight22</styleUrl>
+						<Point>
+							<coordinates>110.2034970028921,-7.246342016686239,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Slack Support HH</name>
+						<description>Name: unset
+Designator: Slack Support HH
+Asset Owner : Telkom
+Type: Figure Eight
+Construction Status: Planned
+Length : 20 Meter</description>
+						<styleUrl>#m_figure_eight22</styleUrl>
+						<Point>
+							<coordinates>110.2028079950692,-7.246410028864918,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Slack Support HH</name>
+						<description>Name: unset
+Designator: Slack Support HH
+Asset Owner : Telkom
+Type: Figure Eight
+Construction Status: Planned
+Length : 20 Meter</description>
+						<styleUrl>#m_figure_eight22</styleUrl>
+						<Point>
+							<coordinates>110.2032510441673,-7.246934017348828,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Slack Support HH</name>
+						<description>Name: unset
+Designator: Slack Support HH
+Asset Owner : Telkom
+Type: Figure Eight
+Construction Status: Planned
+Length : 15 Meter</description>
+						<styleUrl>#m_figure_eight22</styleUrl>
+						<Point>
+							<coordinates>110.1895290087078,-7.255959016628272,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Slack Support HH</name>
+						<description>Name: unset
+Designator: Slack Support HH
+Asset Owner : Telkom
+Type: Figure Eight
+Construction Status: Planned
+Length : 15 Meter</description>
+						<styleUrl>#m_figure_eight22</styleUrl>
+						<Point>
+							<coordinates>110.1894050411986,-7.255363984931277,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Slack Support HH</name>
+						<description>Name: unset
+Designator: Slack Support HH
+Asset Owner : Telkom
+Type: Figure Eight
+Construction Status: Planned
+Length : 15 Meter</description>
+						<styleUrl>#m_figure_eight22</styleUrl>
+						<Point>
+							<coordinates>110.1894249837979,-7.254975042342861,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Slack Support HH</name>
+						<description>Name: unset
+Designator: Slack Support HH
+Asset Owner : Telkom
+Type: Figure Eight
+Construction Status: Planned
+Length : 15 Meter</description>
+						<styleUrl>#m_figure_eight22</styleUrl>
+						<Point>
+							<coordinates>110.189445734881,-7.254121637919395,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Slack Support HH</name>
+						<description>Name: SLACK
+Designator: Slack Support HH
+Asset Owner : Telkom
+Type: Figure Eight
+Construction Status: In Service
+Length : 20 Meter</description>
+						<styleUrl>#m_figure_eight22</styleUrl>
+						<Point>
+							<coordinates>110.1879312651435,-7.254027798224456,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+				<Folder>
+					<name>CLOSURE</name>
+					<Placemark>
+						<name>AS-TMG-FAU-09-01</name>
+						<description>Network Type:Distribution
+Specification ID:SC-OF-SM-24
+Type: breaking
+Construction Status:Planned
+Construction Type:Closure
+Splice Type:breaking
+Splice Method:Fusion</description>
+						<styleUrl>#m_odp4</styleUrl>
+						<Point>
+							<coordinates>110.1917084114186,-7.245727583105991,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>AS-TMG-FAU-09-02</name>
+						<description>Network Type:Distribution
+Specification ID:SC-OF-SM-24
+Type: breaking
+Construction Status:Planned
+Construction Type:Closure
+Splice Type:breaking
+Splice Method:Fusion</description>
+						<styleUrl>#m_odp4</styleUrl>
+						<Point>
+							<coordinates>110.1909709844019,-7.243445996624214,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>NEW PLAN</name>
+			<open>1</open>
+			<Folder>
+				<name>TIANG</name>
+				<open>1</open>
+				<Folder>
+					<name>TE</name>
+					<open>1</open>
+				</Folder>
+			</Folder>
+			<Folder>
+				<name>ODP</name>
+				<open>1</open>
+				<Placemark>
+					<name>ODP-TMG-FAU/047 PT2AS</name>
+					<description>Specification ID:ODP-PB-8 ;
+Construction Status:In Planned ;
+TITO:NO ;
+Core Dist. ke ODP: ;
+CableName;
+
+sebrang Masjid Al-Mutaqin Kembangsari
+Kembangsari, Kandangan, Kabupaten Temanggung, Jawa Tengah 56281</description>
+					<styleUrl>#msn_wht-stars</styleUrl>
+					<Point>
+						<coordinates>110.1992,-7.24533,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>CLOSURE</name>
+			</Folder>
+			<Folder>
+				<name>KABEL</name>
+				<open>1</open>
+			</Folder>
+			<Folder>
+				<name>POLYGON</name>
+				<open>1</open>
+			</Folder>
+			<Folder>
+				<name>CALANG</name>
+				<open>1</open>
+			</Folder>
+			<Folder>
+				<name>SLACK</name>
+			</Folder>
+		</Folder>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>

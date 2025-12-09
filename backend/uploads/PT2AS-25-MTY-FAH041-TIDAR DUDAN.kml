@@ -1,0 +1,1911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+<Document>
+	<name>PT2AS-25-MTY-FAH041-TIDAR DUDAN.kml</name>
+	<StyleMap id="icon-1899-0288D1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-0288D1-normal0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-1899-0288D10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-0288D1-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-0288D1-highlight0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1899-0288D1-highlight">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="icon-1899-0288D1-highlight0">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="icon-1899-0288D1-highlight60">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="icon-1899-0288D1-normal">
+		<IconStyle>
+			<color>ff0055aa</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="icon-1899-0288D1-normal0">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="icon-1899-0288D1-normal6">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="icon-1899-0288D110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-0288D1-normal6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-0288D1-highlight60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="ihld-point-calang">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#ihld-point-calang-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#ihld-point-calang-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="ihld-point-calang-highlight">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="ihld-point-calang-normal">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_flag1300">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_flag160</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_flag1700</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_forbidden2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_forbidden01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_forbidden91</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_poly-project">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_poly-project</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_poly-project</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_flag1700">
+		<IconStyle>
+			<scale>1.16666</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_forbidden91">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/forbidden.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_poly-project">
+		<LineStyle>
+			<color>ff0affff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660affff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_flag160">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_forbidden01">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/forbidden.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_poly-project">
+		<LineStyle>
+			<color>ff0affff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>660affff</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>PT2AS-25-MTY-FAH041-TIDAR DUDAN</name>
+		<open>1</open>
+		<Folder>
+			<name>PT2_ODP-MTY-FAH/027</name>
+			<Folder>
+				<name>STO</name>
+				<visibility>0</visibility>
+			</Folder>
+			<Folder>
+				<name>POLYGON</name>
+				<Folder>
+					<name>REGIONAL</name>
+				</Folder>
+				<Folder>
+					<name>WITEL</name>
+				</Folder>
+				<Folder>
+					<name>STO</name>
+				</Folder>
+				<Folder>
+					<name>ODC</name>
+				</Folder>
+				<Folder>
+					<name>PROJECT</name>
+					<Placemark>
+						<name>PT2_ODP-MTY-FAH/027</name>
+						<styleUrl>#msn_poly-project</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										110.23449059,-7.49584558,0 110.23449059,-7.49809389,0 110.23675827,-7.49809389,0 110.23675827,-7.49584558,0 110.23449059,-7.49584558,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+				</Folder>
+			</Folder>
+			<Folder>
+				<name>HOUSEHOLD</name>
+				<visibility>0</visibility>
+				<Placemark>
+					<name>6098081</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.23654351,-7.49807439,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6098082</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.23466809,-7.49630309,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6098083</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.23478065,-7.4959017,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6098084</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.23494826,-7.4959017,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6098085</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.23486251,-7.49607278,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6098086</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.23451519,-7.49620048,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6098087</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.2345902,-7.4964894,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6098088</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.2351348,-7.49584992,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6098089</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.23453568,-7.49626826,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6098090</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.23484667,-7.496178650000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6098091</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.23450427,-7.496511400000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>6098092</name>
+					<visibility>0</visibility>
+					<styleUrl>#ihld-point-calang</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>110.2347028355,-7.4963857827701,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>NEW PLANNING</name>
+				<visibility>0</visibility>
+				<Folder>
+					<name>DISTRIBUSI</name>
+					<visibility>0</visibility>
+					<Folder>
+						<name>TIANG</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>ODC</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>CLOSURE</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>MH/HH</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>UNDERGROUND</name>
+						<visibility>0</visibility>
+						<Folder>
+							<name>PIPA</name>
+							<visibility>0</visibility>
+						</Folder>
+						<Folder>
+							<name>GALIAN</name>
+							<visibility>0</visibility>
+						</Folder>
+						<Folder>
+							<name>BORING</name>
+							<visibility>0</visibility>
+						</Folder>
+					</Folder>
+					<Folder>
+						<name>CALANG</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>ODP</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>KABEL DISTRIBUSI</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>KABEL DROP</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>RUTE DUCT</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>BTS</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>SLACK</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>OTHER</name>
+						<visibility>0</visibility>
+					</Folder>
+				</Folder>
+				<Folder>
+					<name>FEEDER</name>
+					<visibility>0</visibility>
+					<Folder>
+						<name>TIANG</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>UNDERGROUND</name>
+						<visibility>0</visibility>
+						<Folder>
+							<name>PIPA</name>
+							<visibility>0</visibility>
+						</Folder>
+						<Folder>
+							<name>GALIAN</name>
+							<visibility>0</visibility>
+						</Folder>
+						<Folder>
+							<name>BORING</name>
+							<visibility>0</visibility>
+						</Folder>
+					</Folder>
+					<Folder>
+						<name>MH/HH</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>KABEL FEEDER</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>CLOSURE</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>ODC</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>RUTE DUCT</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>MINI OLT</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>OTN</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>BTS</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>SHELTER</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>SLACK</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>OTHER</name>
+						<visibility>0</visibility>
+					</Folder>
+				</Folder>
+				<Folder>
+					<name>BACKBONE</name>
+					<visibility>0</visibility>
+					<Folder>
+						<name>TIANG</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>MINI OLT</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>UNDERGROUND</name>
+						<visibility>0</visibility>
+						<Folder>
+							<name>PIPA</name>
+							<visibility>0</visibility>
+						</Folder>
+						<Folder>
+							<name>GALIAN</name>
+							<visibility>0</visibility>
+						</Folder>
+						<Folder>
+							<name>BORING</name>
+							<visibility>0</visibility>
+						</Folder>
+					</Folder>
+					<Folder>
+						<name>MH/HH</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>KABEL FEEDER</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>CLOSURE</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>RUTE DUCT</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>ODC</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>ODP</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>OTN</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>BTS</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>SHELTER</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>SLACK</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>OTHER</name>
+						<visibility>0</visibility>
+					</Folder>
+				</Folder>
+			</Folder>
+			<Folder>
+				<name>EKSISTING</name>
+				<visibility>0</visibility>
+				<Folder>
+					<name>DISTRIBUSI</name>
+					<visibility>0</visibility>
+					<Folder>
+						<name>TIANG</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>ODC</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>CLOSURE</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>MH/HH</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>CALANG</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>ODP</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>KABEL DISTRIBUSI</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>RUTE DUCT</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>UNDERGROUND</name>
+						<visibility>0</visibility>
+						<Folder>
+							<name>PIPA</name>
+							<visibility>0</visibility>
+						</Folder>
+						<Folder>
+							<name>GALIAN</name>
+							<visibility>0</visibility>
+						</Folder>
+						<Folder>
+							<name>BORING</name>
+							<visibility>0</visibility>
+						</Folder>
+					</Folder>
+					<Folder>
+						<name>KABEL DROP</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>BTS</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>SLACK</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>OTHER</name>
+						<visibility>0</visibility>
+					</Folder>
+				</Folder>
+				<Folder>
+					<name>FEEDER</name>
+					<visibility>0</visibility>
+					<Folder>
+						<name>TIANG</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>MH/HH</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>KABEL FEEDER</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>CLOSURE</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>ODC</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>UNDERGROUND</name>
+						<visibility>0</visibility>
+						<Folder>
+							<name>PIPA</name>
+							<visibility>0</visibility>
+						</Folder>
+						<Folder>
+							<name>GALIAN</name>
+							<visibility>0</visibility>
+						</Folder>
+						<Folder>
+							<name>BORING</name>
+							<visibility>0</visibility>
+						</Folder>
+					</Folder>
+					<Folder>
+						<name>RUTE DUCT</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>MINI OLT</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>OTN</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>BTS</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>SHELTER</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>SLACK</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>OTHER</name>
+						<visibility>0</visibility>
+					</Folder>
+				</Folder>
+				<Folder>
+					<name>BACKBONE</name>
+					<visibility>0</visibility>
+					<Folder>
+						<name>TIANG</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>MINI OLT</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>MH/HH</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>KABEL FEEDER</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>CLOSURE</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>UNDERGROUND</name>
+						<visibility>0</visibility>
+						<Folder>
+							<name>PIPA</name>
+							<visibility>0</visibility>
+						</Folder>
+						<Folder>
+							<name>GALIAN</name>
+							<visibility>0</visibility>
+						</Folder>
+						<Folder>
+							<name>BORING</name>
+							<visibility>0</visibility>
+						</Folder>
+					</Folder>
+					<Folder>
+						<name>RUTE DUCT</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>ODC</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>ODP</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>OTN</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>BTS</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>SHELTER</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>SLACK</name>
+						<visibility>0</visibility>
+					</Folder>
+					<Folder>
+						<name>OTHER</name>
+						<visibility>0</visibility>
+					</Folder>
+				</Folder>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>EXISTING</name>
+			<open>1</open>
+			<Folder>
+				<name>ODC</name>
+				<Placemark>
+					<name>ODC-MTY-FAH</name>
+					<description><![CDATA[NO: 166<br>WITEL: MAGELANG<br>DATEL: MAGELANG<br>STO: MTY<br>KODE: FAH<br>DESCRIPTION: ODC-C-144<br>DETAILS: Jalan Tidar Campur Depan Rumah No 1A<br>KELURAHAN: Tidar Selatan<br>KECAMATAN: Magelang Selatan<br>KOTA / KABUPATEN:  <br>KAP: 144<br>SEGMEN FEEDER: 6<br>CORE: 025-036<br>RAK OA: 1<br>PANEL OA: 1<br>KABEL: 12 KU<br>JARAK: 4.365  KM<br>DECS: TIDAR CAMPUR<br>JUMLAH CORE MASUK: 8<br>CORE USED: 12<br>SISA CORE FEEDER: -4<br>OKUPANSI FEEDER: 150.00%<br>KET FEEDER: 12<br>TANGGAL UPDATE: 01/12/2021<br>TYPE: <br>PEMBANGUNAN: <br>NODES: <br>AREA_CODE: <br>REGION: R4<br>LATITUDE:  -7.495472°<br>LONGITUDE: 110.231542°<br>On Spec: FEEDER 12<br>Position: POLE]]></description>
+					<styleUrl>#icon-1899-0288D110</styleUrl>
+					<ExtendedData>
+						<Data name="NO">
+							<value>166.0</value>
+						</Data>
+						<Data name="WITEL">
+							<value>MAGELANG</value>
+						</Data>
+						<Data name="DATEL">
+							<value>MAGELANG</value>
+						</Data>
+						<Data name="STO">
+							<value>MTY</value>
+						</Data>
+						<Data name="KODE">
+							<value>FAH</value>
+						</Data>
+						<Data name="DESCRIPTION">
+							<value>ODC-C-144</value>
+						</Data>
+						<Data name="DETAILS">
+							<value>Jalan Tidar Campur Depan Rumah No 1A</value>
+						</Data>
+						<Data name="KELURAHAN">
+							<value>Tidar Selatan</value>
+						</Data>
+						<Data name="KECAMATAN">
+							<value>Magelang Selatan</value>
+						</Data>
+						<Data name="KOTA / KABUPATEN">
+						</Data>
+						<Data name="KAP">
+							<value>144.0</value>
+						</Data>
+						<Data name="SEGMEN FEEDER">
+							<value>6.0</value>
+						</Data>
+						<Data name="CORE">
+							<value>025-036</value>
+						</Data>
+						<Data name="RAK OA">
+							<value>1.0</value>
+						</Data>
+						<Data name="PANEL OA">
+							<value>1.0</value>
+						</Data>
+						<Data name="KABEL">
+							<value>12 KU</value>
+						</Data>
+						<Data name="JARAK">
+							<value>4.365  KM</value>
+						</Data>
+						<Data name="DECS">
+							<value>TIDAR CAMPUR</value>
+						</Data>
+						<Data name="JUMLAH CORE MASUK">
+							<value>8.0</value>
+						</Data>
+						<Data name="CORE USED">
+							<value>12</value>
+						</Data>
+						<Data name="SISA CORE FEEDER">
+							<value>-4</value>
+						</Data>
+						<Data name="OKUPANSI FEEDER">
+							<value>150.00%</value>
+						</Data>
+						<Data name="KET FEEDER">
+							<value>12</value>
+						</Data>
+						<Data name="TANGGAL UPDATE">
+							<value>01/12/2021</value>
+						</Data>
+						<Data name="TYPE">
+						</Data>
+						<Data name="PEMBANGUNAN">
+						</Data>
+						<Data name="NODES">
+						</Data>
+						<Data name="AREA_CODE">
+						</Data>
+						<Data name="REGION">
+							<value>R4</value>
+						</Data>
+						<Data name="LATITUDE">
+							<value>-7.495472°</value>
+						</Data>
+						<Data name="LONGITUDE">
+							<value>110.231542°</value>
+						</Data>
+						<Data name="On Spec">
+							<value>FEEDER 12</value>
+						</Data>
+						<Data name="Position">
+							<value>POLE</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>110.231542,-7.495472,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>DIS.04</name>
+				<Folder>
+					<name>CLOSURE</name>
+					<Placemark>
+						<name>AS-MTY-FAH-04-02</name>
+						<description>NEW AS-MTY-FAH-04-02
+CL-02/01
+NEW SC-OF-SM-24
+ -7.494311°
+110.233502°</description>
+						<LookAt>
+							<longitude>110.2339225846269</longitude>
+							<latitude>-7.494427815543231</latitude>
+							<altitude>0</altitude>
+							<heading>-5.120374461469322e-05</heading>
+							<tilt>0</tilt>
+							<range>324.4925102458285</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_forbidden2</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>110.233502,-7.494311,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>AS-MTY-FAH-04-01</name>
+						<open>1</open>
+						<description>NEW AS-MTY-FAH-04-01
+CL-01/01
+NEW SC-OF-SM-24
+ -7.494098°
+110.232752°</description>
+						<LookAt>
+							<gx:TimeSpan>
+								<begin>2015-10-20T08:57:53Z</begin>
+								<end>2021-03-11T07:52:33Z</end>
+							</gx:TimeSpan>
+							<longitude>110.2325042826991</longitude>
+							<latitude>-7.494942284177452</latitude>
+							<altitude>0</altitude>
+							<heading>-9.142485334985554e-05</heading>
+							<tilt>4.456922047834351</tilt>
+							<range>430.6539073122254</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_forbidden2</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>110.232752,-7.494098,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+				<Folder>
+					<name>ODP</name>
+					<Placemark>
+						<name>ODP-MTY-FAH/027</name>
+						<description>Specification ID:ODP-PB-8 SOLID ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP: ;
+CableName:
+
+
+ODP-MTY-FAH/027
+FAH/D04/027.01
+ODP-SOLID-8
+SPL 1:8
+CORE 1
+TFO05DMQ9BZH
+
+DEPAN WARUNG BU WATI
+JL. ANDONG
+DUDAN, TIDAR UTARA, MAGELANG</description>
+						<LookAt>
+							<longitude>110.2346362660003</longitude>
+							<latitude>-7.496158895512183</latitude>
+							<altitude>0</altitude>
+							<heading>-1.290907631339005e-12</heading>
+							<tilt>0</tilt>
+							<range>109.7980920006433</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#icon-1899-0288D10</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>110.234724,-7.49629,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-MTY-FAH/028</name>
+						<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP: ;
+CableName:
+
+ODP-MTY-FAH/028
+FAH/D04/028.01
+ODP-CA-8
+SPL 1:8
+CORE 2
+TFO046SGNTLS
+
+DEPAN BENGKEL CAT MOBIL
+JL. ANDONG
+DUDAN, TIDAR UTARA, MAGELANG</description>
+						<LookAt>
+							<gx:TimeSpan>
+								<begin>2015-11-04T02:02:19Z</begin>
+								<end>2017-01-11T02:05:31Z</end>
+							</gx:TimeSpan>
+							<longitude>110.2351009741944</longitude>
+							<latitude>-7.494819753816668</latitude>
+							<altitude>0</altitude>
+							<heading>-0.0002896182084846794</heading>
+							<tilt>29.09575359148468</tilt>
+							<range>308.5238507090461</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#icon-1899-0288D10</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>110.235476,-7.494036,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-MTY-FAH/029</name>
+						<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP: ;
+CableName:
+
+ODP-MTY-FAH/029
+FAH/D04/029.01
+ODP-CA-8
+SPL 1:8
+CORE 3
+TFO027TSNJF6
+
+PEREMPATAN MAKAM KYAI DUDO
+JL. ANDONG
+DUDAN, TIDAR UTARA, MAGELANG</description>
+						<LookAt>
+							<gx:TimeSpan>
+								<begin>2015-10-01T03:19:45Z</begin>
+								<end>2017-02-10T18:00:00Z</end>
+							</gx:TimeSpan>
+							<longitude>110.2353195143926</longitude>
+							<latitude>-7.494632422272077</latitude>
+							<altitude>0</altitude>
+							<heading>-5.592062217322546e-05</heading>
+							<tilt>3.959200446315677</tilt>
+							<range>395.5618369344728</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#icon-1899-0288D10</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>110.235131,-7.495159,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-MTY-FAH/032</name>
+						<LookAt>
+							<longitude>110.2359828564996</longitude>
+							<latitude>-7.494677425402087</latitude>
+							<altitude>0</altitude>
+							<heading>-1.31202240534607e-05</heading>
+							<tilt>9.469582090123154</tilt>
+							<range>600.6715458143248</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#icon-1899-0288D10</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>110.2359177920757,-7.494532255012039,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-MTY-FAH/043</name>
+						<description><![CDATA[name: FAH/D04/043.01<br>spec_id: ODP Solid-PB-8 AS<br>latitude: -7.49541855804573<br>longitude: 110.235790628872<br>unnamed (1): <br>wkt: POINT(110.235790628872 -7.49541855804573)]]></description>
+						<styleUrl>#icon-1899-0288D10</styleUrl>
+						<ExtendedData>
+							<Data name="name">
+								<value>FAH/D04/043.01</value>
+							</Data>
+							<Data name="spec_id">
+								<value>ODP Solid-PB-8 AS</value>
+							</Data>
+							<Data name="latitude">
+								<value>-7.49541855804573</value>
+							</Data>
+							<Data name="longitude">
+								<value>110.235790628872</value>
+							</Data>
+							<Data name="unnamed (1)">
+							</Data>
+							<Data name="wkt">
+								<value>POINT(110.235790628872 -7.49541855804573)</value>
+							</Data>
+						</ExtendedData>
+						<Point>
+							<coordinates>110.235790628872,-7.49541855804573,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ODP-MTY-FAH/045</name>
+						<description>NEW ODP-MTY-FAH/045
+FAH/D04/045.01
+ODP-PB SOLID-8
+SPL-1:8-01
+CORE 4
+TFO04I0YCP7U
+JL ANDONG
+SAMPING JEMBATAN TIDAR DUDAN
+TIDAR DUDAN
+TIDAR UTARA - MAGELANG SELATAN
+ -7.494311°
+110.233502°</description>
+						<LookAt>
+							<longitude>110.2339225846269</longitude>
+							<latitude>-7.494427815543231</latitude>
+							<altitude>0</altitude>
+							<heading>-5.120374461469322e-05</heading>
+							<tilt>0</tilt>
+							<range>324.4925102458285</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#icon-1899-0288D10</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>110.233502,-7.494311,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+				<Folder>
+					<name>TIANG</name>
+					<visibility>0</visibility>
+					<Folder>
+						<name>TIANG</name>
+						<visibility>0</visibility>
+						<Placemark>
+							<name>TE</name>
+							<visibility>0</visibility>
+							<description>T;E;7</description>
+							<LookAt>
+								<longitude>110.2347910186114</longitude>
+								<latitude>-7.495901894806105</latitude>
+								<altitude>0</altitude>
+								<heading>2.762248716808423e-05</heading>
+								<tilt>28.12665578073404</tilt>
+								<range>199.2572082028932</range>
+								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+							</LookAt>
+							<styleUrl>#msn_flag1300</styleUrl>
+							<Point>
+								<gx:drawOrder>1</gx:drawOrder>
+								<coordinates>110.2348415933063,-7.495873088971092,0</coordinates>
+							</Point>
+						</Placemark>
+						<Placemark>
+							<name>TE</name>
+							<visibility>0</visibility>
+							<description>T;E;7</description>
+							<LookAt>
+								<longitude>110.2355875760158</longitude>
+								<latitude>-7.494793830510059</latitude>
+								<altitude>0</altitude>
+								<heading>-0.0001786677642701161</heading>
+								<tilt>15.27071428957255</tilt>
+								<range>210.8735275321506</range>
+								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+							</LookAt>
+							<styleUrl>#msn_flag1300</styleUrl>
+							<Point>
+								<gx:drawOrder>1</gx:drawOrder>
+								<coordinates>110.235912742655,-7.494527348151598,0</coordinates>
+							</Point>
+						</Placemark>
+						<Placemark>
+							<name>TE</name>
+							<visibility>0</visibility>
+							<description>T;E;7</description>
+							<LookAt>
+								<gx:TimeSpan>
+									<begin>2015-11-04T02:02:19Z</begin>
+									<end>2017-01-11T02:05:31Z</end>
+								</gx:TimeSpan>
+								<longitude>110.2355694720014</longitude>
+								<latitude>-7.495292560974359</latitude>
+								<altitude>0</altitude>
+								<heading>-0.0003514424736908789</heading>
+								<tilt>25.36778899983852</tilt>
+								<range>122.9198796153032</range>
+								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+							</LookAt>
+							<styleUrl>#msn_flag1300</styleUrl>
+							<Point>
+								<gx:drawOrder>1</gx:drawOrder>
+								<coordinates>110.2357906180027,-7.495418524923818,0</coordinates>
+							</Point>
+						</Placemark>
+						<Placemark>
+							<name>TE</name>
+							<visibility>0</visibility>
+							<description>T;E;7</description>
+							<LookAt>
+								<longitude>110.2355577432218</longitude>
+								<latitude>-7.495049697869351</latitude>
+								<altitude>0</altitude>
+								<heading>-0.0001747749523601796</heading>
+								<tilt>15.27071650097816</tilt>
+								<range>211.80821049738</range>
+								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+							</LookAt>
+							<styleUrl>#msn_flag1300</styleUrl>
+							<Point>
+								<gx:drawOrder>1</gx:drawOrder>
+								<coordinates>110.2358474103714,-7.494918173551434,0</coordinates>
+							</Point>
+						</Placemark>
+						<Placemark>
+							<name>TE</name>
+							<visibility>0</visibility>
+							<description>T;E;7</description>
+							<LookAt>
+								<longitude>110.2351956255073</longitude>
+								<latitude>-7.495140020415485</latitude>
+								<altitude>0</altitude>
+								<heading>-0.0001275363329333408</heading>
+								<tilt>15.27071542052208</tilt>
+								<range>211.3515241742719</range>
+								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+							</LookAt>
+							<styleUrl>#msn_flag1300</styleUrl>
+							<Point>
+								<gx:drawOrder>1</gx:drawOrder>
+								<coordinates>110.2354181047425,-7.495447726801458,0</coordinates>
+							</Point>
+						</Placemark>
+						<Placemark>
+							<name>TE</name>
+							<visibility>0</visibility>
+							<description>T;E;7</description>
+							<LookAt>
+								<gx:TimeSpan>
+									<begin>2015-11-04T02:02:19Z</begin>
+									<end>2017-01-11T02:05:31Z</end>
+								</gx:TimeSpan>
+								<longitude>110.2351009741944</longitude>
+								<latitude>-7.494819753816668</latitude>
+								<altitude>0</altitude>
+								<heading>-0.0002896182084846794</heading>
+								<tilt>29.09575359148468</tilt>
+								<range>308.5238507090461</range>
+								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+							</LookAt>
+							<styleUrl>#msn_flag1300</styleUrl>
+							<Point>
+								<gx:drawOrder>1</gx:drawOrder>
+								<coordinates>110.2359018089542,-7.494108852269371,0</coordinates>
+							</Point>
+						</Placemark>
+						<Placemark>
+							<name>TE</name>
+							<visibility>0</visibility>
+							<description>T;E;7</description>
+							<LookAt>
+								<longitude>110.234859431328</longitude>
+								<latitude>-7.494553715824641</latitude>
+								<altitude>0</altitude>
+								<heading>-8.368815316840377e-05</heading>
+								<tilt>15.27071215169529</tilt>
+								<range>209.9698669206621</range>
+								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+							</LookAt>
+							<styleUrl>#msn_flag1300</styleUrl>
+							<Point>
+								<gx:drawOrder>1</gx:drawOrder>
+								<coordinates>110.2351708427785,-7.494793434033827,0</coordinates>
+							</Point>
+						</Placemark>
+						<Placemark>
+							<name>TE</name>
+							<visibility>0</visibility>
+							<description>T;E;7</description>
+							<LookAt>
+								<longitude>110.2349937022665</longitude>
+								<latitude>-7.494256060762738</latitude>
+								<altitude>0</altitude>
+								<heading>-0.0001012032250704449</heading>
+								<tilt>15.27071012695449</tilt>
+								<range>209.1141354596315</range>
+								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+							</LookAt>
+							<styleUrl>#msn_flag1300</styleUrl>
+							<Point>
+								<gx:drawOrder>1</gx:drawOrder>
+								<coordinates>110.2353356493545,-7.49443805493699,0</coordinates>
+							</Point>
+						</Placemark>
+						<Placemark>
+							<name>TE</name>
+							<visibility>0</visibility>
+							<description>T;E;7</description>
+							<LookAt>
+								<gx:TimeSpan>
+									<begin>2015-11-04T02:02:19Z</begin>
+									<end>2017-01-11T02:05:31Z</end>
+								</gx:TimeSpan>
+								<longitude>110.2349160842211</longitude>
+								<latitude>-7.495083469042434</latitude>
+								<altitude>0</altitude>
+								<heading>-0.0002661123335269107</heading>
+								<tilt>28.99933820493425</tilt>
+								<range>347.7810002180846</range>
+								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+							</LookAt>
+							<styleUrl>#msn_flag1300</styleUrl>
+							<Point>
+								<gx:drawOrder>1</gx:drawOrder>
+								<coordinates>110.2354803108091,-7.494026461854815,0</coordinates>
+							</Point>
+						</Placemark>
+						<Placemark>
+							<name>TE</name>
+							<visibility>0</visibility>
+							<description>T;E;7</description>
+							<LookAt>
+								<longitude>110.234684765842</longitude>
+								<latitude>-7.496121114079352</latitude>
+								<altitude>0</altitude>
+								<heading>7.378886860995359e-13</heading>
+								<tilt>0</tilt>
+								<range>109.5308707814051</range>
+								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+							</LookAt>
+							<styleUrl>#msn_flag1300</styleUrl>
+							<Point>
+								<gx:drawOrder>1</gx:drawOrder>
+								<coordinates>110.2347309002789,-7.496290924262631,0</coordinates>
+							</Point>
+						</Placemark>
+						<Placemark>
+							<name>TE</name>
+							<visibility>0</visibility>
+							<description>T;E;7</description>
+							<LookAt>
+								<longitude>110.2347344743101</longitude>
+								<latitude>-7.495397392007098</latitude>
+								<altitude>0</altitude>
+								<heading>3.499919560118284e-05</heading>
+								<tilt>28.12664277277113</tilt>
+								<range>196.1853927834482</range>
+								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+							</LookAt>
+							<styleUrl>#msn_flag1300</styleUrl>
+							<Point>
+								<gx:drawOrder>1</gx:drawOrder>
+								<coordinates>110.2350644816592,-7.495415246489636,0</coordinates>
+							</Point>
+						</Placemark>
+						<Folder>
+							<name>TIANG</name>
+							<visibility>0</visibility>
+							<Folder>
+								<name>TIANG EKS</name>
+								<visibility>0</visibility>
+								<Placemark>
+									<name>TE</name>
+									<visibility>0</visibility>
+									<description>T;E;7</description>
+									<LookAt>
+										<gx:TimeSpan>
+											<begin>2015-11-04T02:02:19Z</begin>
+											<end>2017-01-11T02:05:31Z</end>
+										</gx:TimeSpan>
+										<longitude>110.2350031138039</longitude>
+										<latitude>-7.49490947072381</latitude>
+										<altitude>0</altitude>
+										<heading>0.0001209502320215942</heading>
+										<tilt>33.41903790403602</tilt>
+										<range>418.8186993294212</range>
+										<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+									</LookAt>
+									<styleUrl>#msn_flag1300</styleUrl>
+									<Point>
+										<gx:drawOrder>1</gx:drawOrder>
+										<coordinates>110.2346966624578,-7.495085239468077,0</coordinates>
+									</Point>
+								</Placemark>
+								<Placemark>
+									<name>TE</name>
+									<visibility>0</visibility>
+									<description>T;E;7</description>
+									<LookAt>
+										<gx:TimeSpan>
+											<begin>2015-10-01T03:19:45Z</begin>
+											<end>2017-02-10T18:00:00Z</end>
+										</gx:TimeSpan>
+										<longitude>110.2353195143926</longitude>
+										<latitude>-7.494632422272077</latitude>
+										<altitude>0</altitude>
+										<heading>-5.592062217322546e-05</heading>
+										<tilt>3.959200446315677</tilt>
+										<range>395.5618369344728</range>
+										<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+									</LookAt>
+									<styleUrl>#msn_flag1300</styleUrl>
+									<Point>
+										<gx:drawOrder>1</gx:drawOrder>
+										<coordinates>110.235131016893,-7.495159138274247,0</coordinates>
+									</Point>
+								</Placemark>
+								<Placemark>
+									<name>TE</name>
+									<visibility>0</visibility>
+									<description>T;E;7</description>
+									<LookAt>
+										<longitude>110.2329700066341</longitude>
+										<latitude>-7.494270711246386</latitude>
+										<altitude>0</altitude>
+										<heading>-0.0001138946318575722</heading>
+										<tilt>4.453487488849003</tilt>
+										<range>258.7411052210296</range>
+										<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+									</LookAt>
+									<styleUrl>#msn_flag1300</styleUrl>
+									<Point>
+										<gx:drawOrder>1</gx:drawOrder>
+										<coordinates>110.2330385087583,-7.494148698313805,0</coordinates>
+									</Point>
+								</Placemark>
+								<Placemark>
+									<name>TE</name>
+									<visibility>0</visibility>
+									<description>T;E;7</description>
+									<LookAt>
+										<longitude>110.2340872343793</longitude>
+										<latitude>-7.494647603777074</latitude>
+										<altitude>0</altitude>
+										<heading>-0.000259623319763183</heading>
+										<tilt>4.453490629049601</tilt>
+										<range>263.2429454906981</range>
+										<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+									</LookAt>
+									<styleUrl>#msn_flag1300</styleUrl>
+									<Point>
+										<gx:drawOrder>1</gx:drawOrder>
+										<coordinates>110.2343192835302,-7.494913031660113,0</coordinates>
+									</Point>
+								</Placemark>
+								<Placemark>
+									<name>TE</name>
+									<visibility>0</visibility>
+									<description>T;E;7</description>
+									<LookAt>
+										<longitude>110.2333945035051</longitude>
+										<latitude>-7.494340053888651</latitude>
+										<altitude>0</altitude>
+										<heading>-0.0001692638271036197</heading>
+										<tilt>4.453491188463538</tilt>
+										<range>264.0445951947643</range>
+										<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+									</LookAt>
+									<styleUrl>#msn_flag1300</styleUrl>
+									<Point>
+										<gx:drawOrder>1</gx:drawOrder>
+										<coordinates>110.2338836838892,-7.494722283553473,0</coordinates>
+									</Point>
+								</Placemark>
+								<Placemark>
+									<name>TE</name>
+									<visibility>0</visibility>
+									<description>T;E;7</description>
+									<LookAt>
+										<longitude>110.233218227575</longitude>
+										<latitude>-7.494225699920404</latitude>
+										<altitude>0</altitude>
+										<heading>-0.0001462735096312644</heading>
+										<tilt>4.453489813801746</tilt>
+										<range>262.0739646213276</range>
+										<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+									</LookAt>
+									<styleUrl>#msn_flag1300</styleUrl>
+									<Point>
+										<gx:drawOrder>1</gx:drawOrder>
+										<coordinates>110.2335032349712,-7.494269878243577,0</coordinates>
+									</Point>
+								</Placemark>
+								<Placemark>
+									<name>TE</name>
+									<visibility>0</visibility>
+									<description>T;E;7</description>
+									<LookAt>
+										<longitude>110.2323257789417</longitude>
+										<latitude>-7.494332874035123</latitude>
+										<altitude>0</altitude>
+										<heading>-4.59695758060525e-05</heading>
+										<tilt>0</tilt>
+										<range>210.518646478257</range>
+										<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+									</LookAt>
+									<styleUrl>#msn_flag1300</styleUrl>
+									<Point>
+										<gx:drawOrder>1</gx:drawOrder>
+										<coordinates>110.2322508249834,-7.494395166523748,0</coordinates>
+									</Point>
+								</Placemark>
+								<Placemark>
+									<name>TE</name>
+									<visibility>0</visibility>
+									<description>T;E;7</description>
+									<LookAt>
+										<longitude>110.2327261705306</longitude>
+										<latitude>-7.494482573099558</latitude>
+										<altitude>0</altitude>
+										<heading>-8.209000435558358e-05</heading>
+										<tilt>4.453485034649972</tilt>
+										<range>255.2220091881049</range>
+										<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+									</LookAt>
+									<styleUrl>#msn_flag1300</styleUrl>
+									<Point>
+										<gx:drawOrder>1</gx:drawOrder>
+										<coordinates>110.2325010115504,-7.494306400035499,0</coordinates>
+									</Point>
+								</Placemark>
+								<Placemark>
+									<name>TE</name>
+									<visibility>0</visibility>
+									<description>T;E;7</description>
+									<LookAt>
+										<longitude>110.2312723073517</longitude>
+										<latitude>-7.495361862667421</latitude>
+										<altitude>0</altitude>
+										<heading>1.163168603944726e-11</heading>
+										<tilt>0</tilt>
+										<range>206.5391316609569</range>
+										<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+									</LookAt>
+									<styleUrl>#msn_flag1300</styleUrl>
+									<Point>
+										<gx:drawOrder>1</gx:drawOrder>
+										<coordinates>110.2315613830643,-7.495151756704233,0</coordinates>
+									</Point>
+								</Placemark>
+								<Placemark>
+									<name>TE</name>
+									<visibility>0</visibility>
+									<description>T;E;7</description>
+									<LookAt>
+										<longitude>110.2316787943739</longitude>
+										<latitude>-7.494705966597507</latitude>
+										<altitude>0</altitude>
+										<heading>3.842057847238014e-05</heading>
+										<tilt>0</tilt>
+										<range>206.7063972657473</range>
+										<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+									</LookAt>
+									<styleUrl>#msn_flag1300</styleUrl>
+									<Point>
+										<gx:drawOrder>1</gx:drawOrder>
+										<coordinates>110.231887864444,-7.494780459276042,0</coordinates>
+									</Point>
+								</Placemark>
+								<Placemark>
+									<name>TE</name>
+									<visibility>0</visibility>
+									<description>T;E;7</description>
+									<LookAt>
+										<longitude>110.2328585404277</longitude>
+										<latitude>-7.494334872436892</latitude>
+										<altitude>0</altitude>
+										<heading>-9.935744411876728e-05</heading>
+										<tilt>4.453486400794565</tilt>
+										<range>257.1802070381077</range>
+										<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+									</LookAt>
+									<styleUrl>#msn_flag1300</styleUrl>
+									<Point>
+										<gx:drawOrder>1</gx:drawOrder>
+										<coordinates>110.2327744980064,-7.494134586348477,0</coordinates>
+									</Point>
+								</Placemark>
+								<Placemark>
+									<name>TE</name>
+									<visibility>0</visibility>
+									<description>T;E;7</description>
+									<LookAt>
+										<longitude>110.233218227575</longitude>
+										<latitude>-7.494225699920404</latitude>
+										<altitude>0</altitude>
+										<heading>-0.0001462735096312644</heading>
+										<tilt>4.453489813801746</tilt>
+										<range>262.0739646213276</range>
+										<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+									</LookAt>
+									<styleUrl>#msn_flag1300</styleUrl>
+									<Point>
+										<gx:drawOrder>1</gx:drawOrder>
+										<coordinates>110.2333631395562,-7.494092594497272,0</coordinates>
+									</Point>
+								</Placemark>
+								<Placemark>
+									<name>TE</name>
+									<visibility>0</visibility>
+									<description>T;E;7</description>
+									<LookAt>
+										<longitude>110.2333945035051</longitude>
+										<latitude>-7.494340053888651</latitude>
+										<altitude>0</altitude>
+										<heading>-0.0001692638271036197</heading>
+										<tilt>4.453491188463538</tilt>
+										<range>264.0445951947643</range>
+										<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+									</LookAt>
+									<styleUrl>#msn_flag1300</styleUrl>
+									<Point>
+										<gx:drawOrder>1</gx:drawOrder>
+										<coordinates>110.2336585623705,-7.494487029527211,0</coordinates>
+									</Point>
+								</Placemark>
+								<Placemark>
+									<name>TE</name>
+									<visibility>0</visibility>
+									<description>T;E;7</description>
+									<LookAt>
+										<longitude>110.2312723073517</longitude>
+										<latitude>-7.495361862667421</latitude>
+										<altitude>0</altitude>
+										<heading>1.163168603944726e-11</heading>
+										<tilt>0</tilt>
+										<range>206.5391316609569</range>
+										<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+									</LookAt>
+									<styleUrl>#msn_flag1300</styleUrl>
+									<Point>
+										<gx:drawOrder>1</gx:drawOrder>
+										<coordinates>110.2315178940552,-7.495328463750671,0</coordinates>
+									</Point>
+								</Placemark>
+								<Placemark>
+									<name>TE</name>
+									<visibility>0</visibility>
+									<description>T;E;7</description>
+									<LookAt>
+										<longitude>110.2314056222281</longitude>
+										<latitude>-7.495171403452702</latitude>
+										<altitude>0</altitude>
+										<heading>0.0001658229104884782</heading>
+										<tilt>6.121422984498769</tilt>
+										<range>384.9838762136114</range>
+										<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+									</LookAt>
+									<styleUrl>#msn_flag1300</styleUrl>
+									<Point>
+										<gx:drawOrder>1</gx:drawOrder>
+										<coordinates>110.23156189857,-7.495516439838507,0</coordinates>
+									</Point>
+								</Placemark>
+							</Folder>
+						</Folder>
+					</Folder>
+				</Folder>
+				<Folder>
+					<name>KABEL</name>
+					<Folder>
+						<name>KABEL EKSIST</name>
+						<open>1</open>
+						<Placemark>
+							<name>DS-MTY-FE-06-03/04-01</name>
+							<description>NEW AC-OF-SM-12-SC;</description>
+							<styleUrl>#m_ylw-pushpin000</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									110.2315401643556,-7.495475990354457,0 110.2315110202795,-7.495349959949024,0 110.2314994965859,-7.495248864696059,0 110.2315051272635,-7.495192810985808,0 110.2315315385169,-7.49513753713736,0 110.2316187383675,-7.495013190214427,0 110.2318319696736,-7.494758083682682,0 110.2322067923642,-7.494325366752468,0 110.2324220269149,-7.49432867251637,0 110.2324967812706,-7.494281356587984,0 110.2326170273073,-7.494211032202524,0 110.2327583929024,-7.494100815128191,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>DS-MTY-FE-06-03/04-02A-01</name>
+							<description>NEW AC-OF-SM-12-SC;</description>
+							<styleUrl>#m_ylw-pushpin000</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									110.2335070692379,-7.494245546700811,0 110.2334926990448,-7.494332970734298,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>DS-MTY-FE-06-03/04-03</name>
+							<description>Network Type: Distribution ;
+Specification: AC-OF-SM-12-SC ;
+Number of Core: 12 ;
+Fiber Length: 133 m ;
+Construction Status: In Service ;</description>
+							<styleUrl>#m_ylw-pushpin000</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<altitudeMode>relativeToGround</altitudeMode>
+								<coordinates>
+									110.235125043248,-7.495154452141576,0 110.2351609925082,-7.49479002845887,0 110.2353311283742,-7.494429224442157,0 110.2354791066806,-7.494021773276418,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>DS-MTY-FE-06-03/04-05</name>
+							<description>Network Type: Distribution ;
+Specification: AC-OF-SM-12-SC ;
+Number of Core: 24 ;
+Fiber Length: 285 m ;
+Construction Status: In Service ;</description>
+							<styleUrl>#m_ylw-pushpin000</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<altitudeMode>relativeToGround</altitudeMode>
+								<coordinates>
+									110.2359029798553,-7.494523564519236,0 110.2358383993612,-7.494914342898219,0 110.2357862732876,-7.495412509244431,0 110.2353986869391,-7.495444324606996,0 110.2350597936351,-7.495407892470878,0 110.2348271813434,-7.49586344306142,0 110.2347255676829,-7.496292633165835,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>DS-MTY-FE-06-03/04-04</name>
+							<description>Network Type: Distribution ;
+Specification: AC-OF-SM-12-SC ;
+Number of Core: 24 ;
+Fiber Length: 88 m ;
+Construction Status: In Service ;</description>
+							<styleUrl>#m_ylw-pushpin000</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<altitudeMode>relativeToGround</altitudeMode>
+								<coordinates>
+									110.2354971588371,-7.494016116024862,0 110.2358580724224,-7.494098649115592,0 110.2359047703385,-7.494519411592004,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>DS-MTY-FE-06-03/04-02A</name>
+							<description>AC-OF-SM-12-SC;</description>
+							<styleUrl>#m_ylw-pushpin000</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									110.2327624059436,-7.4940840551149,0 110.2328354026776,-7.494096329988149,0 110.2328918068331,-7.494135134946702,0 110.232953573518,-7.49414372009691,0 110.2330211070394,-7.494131935842917,0 110.2331267638007,-7.494098816572084,0 110.2332216188713,-7.494067374249611,0 110.2333390616007,-7.494052729715562,0 110.233385038594,-7.494083035695627,0 110.2335011258177,-7.494280138610252,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>DS-MTY-FE-06-03/04-02</name>
+							<description>AC-OF-SM-12-SC;</description>
+							<styleUrl>#m_ylw-pushpin000</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									110.2334914477339,-7.494297737583984,0 110.233638043421,-7.49446401618116,0 110.2336776554949,-7.494554576484108,0 110.2337080770927,-7.49460887429631,0 110.2338665305851,-7.494744851275894,0 110.234301483813,-7.494919163578317,0 110.2346965860995,-7.495064541305231,0 110.2351427027218,-7.495155175364185,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+					</Folder>
+				</Folder>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>NEW PLANNING</name>
+			<open>1</open>
+			<Folder>
+				<name>ODP</name>
+				<open>1</open>
+				<Placemark>
+					<name>PT2AS ODP-MTY-FAH/041</name>
+					<description> -7.495873°110.234842°</description>
+					<styleUrl>#icon-1899-0288D1</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>FAH/D04/041.01</value>
+						</Data>
+						<Data name="spec_id">
+							<value>ODP Solid-PB-8 AS</value>
+						</Data>
+						<Data name="latitude">
+							<value>-7.49587311992809</value>
+						</Data>
+						<Data name="longitude">
+							<value>110.234841558775</value>
+						</Data>
+						<Data name="unnamed (1)">
+						</Data>
+						<Data name="wkt">
+							<value>POINT(110.234841558775 -7.49587311992809)</value>
+						</Data>
+					</ExtendedData>
+					<gx:balloonVisibility>1</gx:balloonVisibility>
+					<Point>
+						<coordinates>110.234842,-7.495873,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>SLACK</name>
+				<visibility>0</visibility>
+			</Folder>
+			<Folder>
+				<name>KABEL</name>
+				<visibility>0</visibility>
+				<open>1</open>
+			</Folder>
+			<Folder>
+				<name>TIANG</name>
+				<visibility>0</visibility>
+			</Folder>
+			<Folder>
+				<name>CLOSURE</name>
+				<visibility>0</visibility>
+			</Folder>
+		</Folder>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>

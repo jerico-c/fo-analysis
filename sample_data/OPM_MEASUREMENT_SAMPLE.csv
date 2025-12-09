@@ -1,0 +1,11 @@
+Cable ID,Segment Name,Tx Power (dBm),Rx Power (dBm),Loss (dB),Length (km),Status,Test Date,Technician,Remarks
+CBL-001,PAYAMAN-ODP001,-2.5,-15.3,12.8,8.52,Pass,2024-01-15,Ahmad Fauzi,Normal
+CBL-002,PAYAMAN-ODP002,-2.3,-16.1,13.8,9.12,Pass,2024-01-15,Ahmad Fauzi,Normal
+CBL-003,SECANG-ODP001,-2.4,-14.8,12.4,8.21,Pass,2024-01-15,Ahmad Fauzi,Normal
+CBL-004,SECANG-ODP002,-2.6,-18.2,15.6,10.45,Fail,2024-01-15,Ahmad Fauzi,High loss detected
+CBL-005,PAYAMAN-ODP003,-2.5,-15.1,12.6,8.34,Pass,2024-01-15,Budi Santoso,Normal
+CBL-006,SECANG-ODP003,-2.7,-16.4,13.7,9.08,Pass,2024-01-16,Budi Santoso,Normal
+CBL-007,PAYAMAN-ODP004,-2.4,-15.5,13.1,8.67,Pass,2024-01-16,Budi Santoso,Normal
+CBL-008,SECANG-ODP004,-2.3,-14.2,11.9,7.89,Pass,2024-01-16,Ahmad Fauzi,Normal
+CBL-009,PAYAMAN-ODP005,-2.5,-19.1,16.6,11.02,Fail,2024-01-16,Ahmad Fauzi,Possible fiber bend
+CBL-010,SECANG-ODP005,-2.6,-15.8,13.2,8.75,Pass,2024-01-17,Budi Santoso,Normal

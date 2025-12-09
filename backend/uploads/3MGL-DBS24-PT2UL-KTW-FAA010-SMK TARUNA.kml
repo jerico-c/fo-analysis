@@ -1,0 +1,4221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>3MGL-DBS24-PT2UL-KTW-FAA010-SMK TARUNA.kml</name>
+	<open>1</open>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Style id="icon-1899-0288D1-highlight300">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="icon-1899-0288D1-normal01">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="icon-1899-0288D15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-0288D1-normal01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-0288D1-highlight300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-ylwline-w377">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w3770">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w3771">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="icon-ylwline-w37710">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w3774</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w37713</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-ylwline-w37711">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w37712">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w37713">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="icon-ylwline-w37714">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w37727</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w37754</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-ylwline-w37715">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="icon-ylwline-w37717">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w37712</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w37728</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-ylwline-w3772">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="icon-ylwline-w37720">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w37711</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w37715</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-ylwline-w37721">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w377</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w3771</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-ylwline-w37722">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w3770</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w37758</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-ylwline-w37723">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w37724">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="icon-ylwline-w37725">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w37748</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w37760</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-ylwline-w37726">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w37738</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w37749</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-ylwline-w37727">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w37728">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w37729">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w377290">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w377291">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w377292">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w3773">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="icon-ylwline-w37731">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w37741</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w37740</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-ylwline-w37734">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w37747</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w37739</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-ylwline-w37735">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w37736">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w37737">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w37738">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w37739">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w3774">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w37740">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w37741">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w37742">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w37743">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w377430">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w377431">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w377432">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w37744">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="icon-ylwline-w37745">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w3773</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w37735</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-ylwline-w37746">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w37747">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w37748">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w37749">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w3775">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w37750">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="icon-ylwline-w37751">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w3772</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w37742</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-ylwline-w37753">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w37736</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w37759</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-ylwline-w37754">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="icon-ylwline-w37755">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w37737</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w37744</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-ylwline-w37756">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w37750</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w37723</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-ylwline-w37757">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w377432</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w377292</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-ylwline-w377570">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w377430</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w377290</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-ylwline-w377571">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w37743</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w37729</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-ylwline-w377572">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w377431</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w377291</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-ylwline-w37758">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="icon-ylwline-w37759">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="icon-ylwline-w3776">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w37746</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w37724</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-ylwline-w37760">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="icon-ylwline-w3777">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-ylwline-w3779</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-ylwline-w3775</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-ylwline-w3779">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_flag332">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_flag180010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_flag24210</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-circle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon611501">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon612701</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon612800</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon61182">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon614701</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon61270</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon6120001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon61243</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon6142101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon6125010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon6120113</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon6121100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon61320">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon61570</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon613200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon613501">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon61483</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon611830</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon61361">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon615400</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon61383</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon61641">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon61704</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon615500</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon61930">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon61711</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon61151</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_red-circle030">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_red-circle021</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_red-circle02116</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_track402">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_track221</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_track11116</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_flag24210">
+		<IconStyle>
+			<scale>1.28333</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_grn-circle">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_icon61151">
+		<IconStyle>
+			<scale>1.32</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_icon611830">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon6121100">
+		<IconStyle>
+			<scale>1.32</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_icon61270">
+		<IconStyle>
+			<scale>1.32</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_icon612800">
+		<IconStyle>
+			<scale>1.32</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_icon613200">
+		<IconStyle>
+			<scale>1.32</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon61383">
+		<IconStyle>
+			<scale>1.32</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_icon6142101">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon615500">
+		<IconStyle>
+			<scale>1.32</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ranger_station">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_red-circle02116">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_track11116">
+		<IconStyle>
+			<scale>2.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/track.png</href>
+			</Icon>
+			<hotSpot x="32" y="32" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_flag180010">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_grn-circle">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_icon6120113">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_icon61243">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon612701">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_icon614701">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_icon61483">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon615400">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_icon61570">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon61704">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_icon61711">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ranger_station">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_red-circle021">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_track221">
+		<IconStyle>
+			<scale>2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/track.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>3MGL-DBS24-PT2UL-KTW-FAA010-SMK TARUNA</name>
+		<Folder>
+			<name>ODC</name>
+			<Placemark>
+				<name>ODC-KTW-FAA</name>
+				<description><![CDATA[NO: 83<br>WITEL: MAGELANG<br>DATEL: KEBUMEN<br>STO: KTW<br>KODE: FAA<br>DESCRIPTION: ODC-C-288<br>DETAILS: Jalan Raya Prembun Depan Terminal Prembun<br>KELURAHAN: Tersobo<br>KECAMATAN: Prembun<br>KOTA / KABUPATEN:  <br>KAP: 288<br>SEGMEN FEEDER: 3<br>CORE: 001-048<br>RAK OA: 1<br>PANEL OA: 2<br>KABEL: 48 KU<br>JARAK: 7.259<br>DECS: PREMBUN<br>JUMLAH CORE MASUK: 36<br>CORE USED: 24<br>SISA CORE FEEDER: 12<br>OKUPANSI FEEDER: 66.67%<br>KET FEEDER: 24<br>TANGGAL UPDATE: 01/12/2021<br>TYPE: <br>PEMBANGUNAN: <br>NODES: <br>AREA_CODE: <br>REGION: R4<br>LATITUDE:  -7.722238°<br>LONGITUDE: 109.793710°<br>On Spec: <br>Position: POLE]]></description>
+				<styleUrl>#icon-1899-0288D15</styleUrl>
+				<ExtendedData>
+					<Data name="NO">
+						<value>83.0</value>
+					</Data>
+					<Data name="WITEL">
+						<value>MAGELANG</value>
+					</Data>
+					<Data name="DATEL">
+						<value>KEBUMEN</value>
+					</Data>
+					<Data name="STO">
+						<value>KTW</value>
+					</Data>
+					<Data name="KODE">
+						<value>FAA</value>
+					</Data>
+					<Data name="DESCRIPTION">
+						<value>ODC-C-288</value>
+					</Data>
+					<Data name="DETAILS">
+						<value>Jalan Raya Prembun Depan Terminal Prembun</value>
+					</Data>
+					<Data name="KELURAHAN">
+						<value>Tersobo</value>
+					</Data>
+					<Data name="KECAMATAN">
+						<value>Prembun</value>
+					</Data>
+					<Data name="KOTA / KABUPATEN">
+					</Data>
+					<Data name="KAP">
+						<value>288.0</value>
+					</Data>
+					<Data name="SEGMEN FEEDER">
+						<value>3.0</value>
+					</Data>
+					<Data name="CORE">
+						<value>001-048</value>
+					</Data>
+					<Data name="RAK OA">
+						<value>1.0</value>
+					</Data>
+					<Data name="PANEL OA">
+						<value>2.0</value>
+					</Data>
+					<Data name="KABEL">
+						<value>48 KU</value>
+					</Data>
+					<Data name="JARAK">
+						<value>7.259</value>
+					</Data>
+					<Data name="DECS">
+						<value>PREMBUN</value>
+					</Data>
+					<Data name="JUMLAH CORE MASUK">
+						<value>36.0</value>
+					</Data>
+					<Data name="CORE USED">
+						<value>24</value>
+					</Data>
+					<Data name="SISA CORE FEEDER">
+						<value>12</value>
+					</Data>
+					<Data name="OKUPANSI FEEDER">
+						<value>66.67%</value>
+					</Data>
+					<Data name="KET FEEDER">
+						<value>24</value>
+					</Data>
+					<Data name="TANGGAL UPDATE">
+						<value>01/12/2021</value>
+					</Data>
+					<Data name="TYPE">
+					</Data>
+					<Data name="PEMBANGUNAN">
+					</Data>
+					<Data name="NODES">
+					</Data>
+					<Data name="AREA_CODE">
+					</Data>
+					<Data name="REGION">
+						<value>R4</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>-7.722238°</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>109.793710°</value>
+					</Data>
+					<Data name="On Spec">
+					</Data>
+					<Data name="Position">
+						<value>POLE</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>109.79371,-7.722237999999999,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>DIS.02</name>
+			<Folder>
+				<name>KABEL</name>
+				<Style id="icon-ylwline-w377">
+					<IconStyle>
+						<scale>1.1</scale>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+						</Icon>
+					</IconStyle>
+					<LineStyle>
+						<color>ff0055ff</color>
+						<width>3</width>
+					</LineStyle>
+				</Style>
+				<Placemark>
+					<name>DS-KTW-FE-02-01-05/02-01</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-24-SC ;
+Number of Core: 24 ;
+Fiber Length: 292m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w37710</styleUrl>
+					<LineString>
+						<coordinates>
+							109.7937110456889,-7.72224396794778,0 109.7937739391894,-7.72231408147328,0 109.7932554879913,-7.722017209395497,0 109.7927522658593,-7.721794073854474,0 109.7924786165429,-7.721673339159731,0 109.7921913752015,-7.721553560890396,0 109.79181,-7.72137,0 109.7914597651085,-7.721244298791656,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-02-01-05/02-01-01</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-24-SC ;
+Number of Core: 24;
+Fiber Length: 464m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w37751</styleUrl>
+					<LineString>
+						<coordinates>
+							109.7914563416956,-7.721242854524181,0 109.7899422576328,-7.72065875075544,0 109.7892986788528,-7.720465579293681,0 109.7886440861052,-7.720303558591554,0 109.7888824032599,-7.720885015364536,0 109.78919,-7.72141,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-02-01-05/02-02</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-24-SC ;
+Number of Core: 24 ;
+Fiber Length: 610m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w37753</styleUrl>
+					<LineString>
+						<coordinates>
+							109.7914688119515,-7.721238983205571,0 109.790077516137,-7.720714076141574,0 109.7886637715749,-7.720309841495895,0 109.7882458292623,-7.720156841110017,0 109.7879652533608,-7.720064304412998,0 109.7873088164692,-7.719997688261785,0 109.7869575711958,-7.719924355619365,0 109.7869280593242,-7.720328877307576,0 109.7868388101893,-7.720721688779968,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-02-01-05/02-03</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-24-SC ;
+Number of Core: 24 ;
+Fiber Length: 1173m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w37734</styleUrl>
+					<LineString>
+						<coordinates>
+							109.7868376510945,-7.720722837351465,0 109.7867354674571,-7.721074781537136,0 109.7866279117818,-7.721529227546144,0 109.7865268538058,-7.721928409879689,0 109.7864342358778,-7.722346988375163,0 109.7863520746917,-7.722714097874889,0 109.7862752739767,-7.72304844113165,0 109.7862304585979,-7.723229035275836,0 109.786132020902,-7.723580481240651,0 109.7860274515476,-7.723995441898134,0 109.7859169065034,-7.724412880856703,0 109.7858191425717,-7.724825066319375,0 109.7855993709282,-7.725657658646681,0 109.7854766324315,-7.726115065691099,0 109.7854045898808,-7.72645781332714,0 109.7853005284839,-7.726859697162494,0 109.7851937987802,-7.72727045781719,0 109.7851004099096,-7.727647273577984,0 109.7849856670189,-7.728076251908284,0 109.7848813309967,-7.728521038764316,0 109.7847855488016,-7.72895703117059,0 109.7846452216594,-7.729460810695863,0 109.7845822746734,-7.729698619597826,0 109.7845098635307,-7.73005172839375,0 109.7845138643178,-7.730515951194699,0 109.784503678148,-7.730803375452085,0 109.7844526179995,-7.73103475103627,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-02-01-05/02-04</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-24-SC ;
+Number of Core: 24 ;
+Fiber Length: 270m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w37731</styleUrl>
+					<LineString>
+						<coordinates>
+							109.7844630246136,-7.731004863830966,0 109.7844607997087,-7.731239555405121,0 109.7843616327494,-7.731560074715055,0 109.7843886037092,-7.731936764905867,0 109.7844306732405,-7.732321984446542,0 109.7844171285599,-7.732671501357435,0 109.7844235850979,-7.733036594010796,0 109.7844608641806,-7.733424042553884,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-002-01-05/02-05</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-24-SC ;
+Number of Core: 24 ;
+Fiber Length: 47m ;
+Construction Status: In service ;</description>
+					<styleUrl>#icon-ylwline-w3776</styleUrl>
+					<LineString>
+						<coordinates>
+							109.78446,-7.73342,0 109.7844676828624,-7.733844707945105,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-02-01-05/02-05</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-24-SC ;
+Number of Core: 24 ;
+Fiber Length: 70m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w37722</styleUrl>
+					<LineString>
+						<coordinates>
+							109.7844692067719,-7.73384772806615,0 109.7844661568662,-7.734077256385855,0 109.7844677752679,-7.734472978471377,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-02-01-05/02-06</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-24-SC ;
+Number of Core: 24 ;
+Fiber Length: 368m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w37726</styleUrl>
+					<LineString>
+						<coordinates>
+							109.784466153246,-7.734487117256366,0 109.7844813886915,-7.734913467051771,0 109.7844844331892,-7.735280410480101,0 109.7844859535727,-7.735696112218122,0 109.7844920454312,-7.736116297560487,0 109.7845057568802,-7.736570824286196,0 109.7845118489695,-7.736991775124028,0 109.7845133694593,-7.737380926505653,0 109.7844645998828,-7.737810723956351,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-02-01-05/02-07</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-24-SC ;
+Number of Core: 24 ;
+Fiber Length: 1069m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w37756</styleUrl>
+					<LineString>
+						<coordinates>
+							109.7844615521205,-7.737806193635075,0 109.7844371669865,-7.738065922842631,0 109.7843807790048,-7.738331691989184,0 109.7843091512235,-7.738652331635007,0 109.7842100914341,-7.739047965283298,0 109.7840964362939,-7.739453111264644,0 109.783986708599,-7.739865314574334,0 109.7838995261458,-7.740247563253714,0 109.7837837021839,-7.74065980718466,0 109.7836869698128,-7.741067755295069,0 109.783580289693,-7.741447854349,0 109.7834644653034,-7.74184046742284,0 109.7833658513216,-7.742227593665099,0 109.7831479173913,-7.743028833731453,0 109.782903384147,-7.743877283166881,0 109.7827601262888,-7.744345738847771,0 109.7825123303092,-7.745227739024114,0 109.782370989129,-7.745648686896468,0 109.7822505907431,-7.746039789670379,0 109.7821508642635,-7.746417637108935,0 109.7820319896878,-7.746802010793057,0 109.7819594980442,-7.747138714125579,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-02-01-05/02-08</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-24-SC ;
+Number of Core: 24 ;
+Fiber Length: 196m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w37714</styleUrl>
+					<LineString>
+						<coordinates>
+							109.78195,-7.74713,0 109.78176,-7.747479999999999,0 109.78155,-7.74785,0 109.78135,-7.74811,0 109.78125,-7.748129999999999,0 109.78108,-7.748619999999999,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-02-01-05/02-09</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-24-SC ;
+Number of Core: 24 ;
+Fiber Length: 498m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w37755</styleUrl>
+					<LineString>
+						<coordinates>
+							109.78108,-7.7486,0 109.78127,-7.74812,0 109.78136,-7.7481,0 109.78142,-7.74828,0 109.78151,-7.74841,0 109.78155,-7.74868,0 109.78141,-7.74908,0 109.78131,-7.74947,0 109.7811,-7.7502,0 109.78099,-7.750630000000001,0 109.78087,-7.75105,0 109.78079,-7.75138,0 109.78067,-7.75183,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-02-01-05/02-10</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-24-SC ;
+Number of Core: 24 ;
+Fiber Length: 476m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w37757</styleUrl>
+					<LineString>
+						<coordinates>
+							109.7806909879882,-7.75179251612461,0 109.78058,-7.752260000000001,0 109.78046,-7.75265,0 109.78038,-7.75296,0 109.78026,-7.75336,0 109.78018,-7.7537,0 109.78008,-7.75398,0 109.77998,-7.75438,0 109.77986,-7.754740000000001,0 109.77976,-7.75512,0 109.77963,-7.75549,0 109.77951,-7.75593,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-02-01-05/02-14</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-24-SC ;
+Number of Core: 24 ;
+Fiber Length: 710 m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w37717</styleUrl>
+					<LineString>
+						<coordinates>
+							109.77716,-7.76689,0 109.77721,-7.767189999999999,0 109.77729,-7.76763,0 109.77736,-7.76806,0 109.77742,-7.76845,0 109.77745,-7.76886,0 109.77744,-7.76929,0 109.77748,-7.7697,0 109.77749,-7.770149999999999,0 109.77751,-7.770570000000001,0 109.77752,-7.77091,0 109.77754,-7.771320000000001,0 109.77755,-7.77167,0 109.77756,-7.77201,0 109.77757,-7.77248,0 109.77758,-7.7729,0 109.7776,-7.773280000000001,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-02-01-05/02-14</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-24-SC ;
+Number of Core: 24 ;
+Fiber Length: 1710m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w37721</styleUrl>
+					<LineString>
+						<coordinates>
+							109.7776,-7.773280000000001,0 109.77793,-7.773289999999999,0 109.77836,-7.77331,0 109.77882,-7.77333,0 109.77919,-7.773370000000001,0 109.77966,-7.773380000000001,0 109.78009,-7.77341,0 109.78046,-7.773439999999999,0 109.78087,-7.77349,0 109.78143,-7.77351,0 109.78204,-7.773529999999999,0 109.78259,-7.77355,0 109.78312,-7.77356,0 109.78364,-7.77359,0 109.78438,-7.77367,0 109.78403,-7.77363,0 109.78467,-7.77372,0 109.78463,-7.774130000000001,0 109.78459,-7.774610000000001,0 109.78456,-7.77502,0 109.78454,-7.77547,0 109.78454,-7.776009999999999,0 109.78459,-7.77648,0 109.78462,-7.77701,0 109.78466,-7.77735,0 109.78497,-7.77734,0 109.78535,-7.77735,0 109.78567,-7.77735,0 109.7861,-7.77736,0 109.78668,-7.77737,0 109.78713,-7.77735,0 109.78713,-7.77734,0 109.78713,-7.777330000000001,0 109.78718,-7.777059999999999,0 109.78721,-7.77664,0 109.78723,-7.77622,0 109.78732,-7.77578,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-002-01-05/02-15</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-12-SC ;
+Number of Core: 12 ;
+Fiber Length: 112m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w37720</styleUrl>
+					<LineString>
+						<coordinates>
+							109.78733,-7.775760000000001,0 109.78754,-7.77512,0 109.7876,-7.77487,0 109.78764,-7.7748,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-02-01-05/02-04-01</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-12-SC ;
+Number of Core: 12 ;
+Fiber Length: 238m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w37725</styleUrl>
+					<LineString>
+						<coordinates>
+							109.7844672834772,-7.733426258930922,0 109.7852111310029,-7.733423408241252,0 109.7858544506248,-7.733427680304245,0 109.7866257339099,-7.733485881357493,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-02-01-05/02-04-02</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-12-SC ;
+Number of Core: 12 ;
+Fiber Length: 160m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w37745</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							109.7866184896271,-7.733478647246662,0 109.7874354933067,-7.733554355583991,0 109.788061788557,-7.733621836465597,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-02-01-05/02-04-03</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-12-SC ;
+Number of Core: 12 ;
+Fiber Length: 264m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w3777</styleUrl>
+					<LineString>
+						<coordinates>
+							109.7880618325063,-7.733620470575515,0 109.7880785578636,-7.73300410212072,0 109.7880909636222,-7.732339357397773,0 109.7881434033433,-7.731837755341522,0 109.7882531247505,-7.73144363114598,0 109.7883430352388,-7.73127752489219,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-02-01-05/02-11</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-24-SC ;
+Number of Core: 24 ;
+Fiber Length: 488m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w377572</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							109.7794930131564,-7.755848473472938,0 109.778257582522,-7.76008818656777,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-02-01-05/02-12</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-24-SC ;
+Number of Core: 24 ;
+Fiber Length: 468m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w377571</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							109.7782462050376,-7.760133484721875,0 109.7776928744148,-7.762071602295411,0 109.7771446606845,-7.764217887739605,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DS-KTW-FE-02-01-05/02-13</name>
+					<description>Network Type: Distribution ;
+Specification: AC-OF-SM-24-SC ;
+Number of Core: 24 ;
+Fiber Length: 308 m ;
+Construction Status: In Service ;</description>
+					<styleUrl>#icon-ylwline-w377570</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							109.7771104980112,-7.764157355001195,0 109.7770348464215,-7.765003050291936,0 109.776991794886,-7.765495812906466,0 109.777002642648,-7.76594313540823,0 109.7771727417196,-7.76692333557405,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>ODP</name>
+				<Placemark>
+					<name>ODP-KTW-FAA/02</name>
+					<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP:1 ;
+CableName:DS-KTW-FE-02-01-05/02.08 ;</description>
+					<TimeStamp><when>2016-01-28T04:58:38Z</when>
+</TimeStamp>
+					<styleUrl>#msn_red-circle030</styleUrl>
+					<Point>
+						<coordinates>109.7810811060258,-7.748624552262008,21.82</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ODP-KTW-FAA/003</name>
+					<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP:13 ;
+CableName:DS-KTW-FE-02-01-05/02.14 ;</description>
+					<TimeStamp><when>2016-01-28T04:22:57Z</when>
+</TimeStamp>
+					<styleUrl>#msn_red-circle030</styleUrl>
+					<Point>
+						<coordinates>109.7876393995046,-7.774815938118717,26.25</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ODP-KTW-FAA/010</name>
+					<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP:3 ;
+CableName:DS-KTW-FE-02-01-05/02.07;</description>
+					<LookAt>
+						<gx:TimeSpan>
+							<begin>2016-01-28T04:22:25Z</begin>
+							<end>2016-01-28T06:52:27Z</end>
+						</gx:TimeSpan>
+						<longitude>109.781901143802</longitude>
+						<latitude>-7.747272917802378</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0001398052103872721</heading>
+						<tilt>13.06223301424561</tilt>
+						<range>79.8851756004873</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_red-circle030</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>109.7819597697279,-7.747153406799296,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ODP-KTW-FAA/011</name>
+					<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP:15 ;
+CableName:DS-KTW-FE-02-01-05/02.13 ;</description>
+					<TimeStamp><when>2016-01-28T04:48:31Z</when>
+</TimeStamp>
+					<styleUrl>#msn_red-circle030</styleUrl>
+					<Point>
+						<coordinates>109.7771563262714,-7.76689674518777,17.69</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ODP-KTW-FAA/012</name>
+					<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP:16 ;
+CableName:DS-KTW-FE-02-01-05/02.09;</description>
+					<LookAt>
+						<gx:TimeSpan>
+							<begin>2016-01-28T04:22:25Z</begin>
+							<end>2016-01-28T06:52:27Z</end>
+						</gx:TimeSpan>
+						<longitude>109.78045805625</longitude>
+						<latitude>-7.752041335417426</latitude>
+						<altitude>0</altitude>
+						<heading>0.0001344897485733013</heading>
+						<tilt>14.08990498566993</tilt>
+						<range>196.6388941790121</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_red-circle030</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>109.7806755569028,-7.751826147260714,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ODP-KTW-FAA/013</name>
+					<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP:17 ;
+CableName:DS-KTW-FE-02-01-05/02.13;</description>
+					<TimeStamp><when>2016-01-28T04:44:08Z</when>
+</TimeStamp>
+					<styleUrl>#msn_red-circle030</styleUrl>
+					<Point>
+						<coordinates>109.777603342723,-7.77327673597773,24.4</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ODP-KTW-FAA/019</name>
+					<description>Specification ID:ODP-PB-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP:2 ;
+CableName:DS-KTW-FE-02-01-05/02.01 ;</description>
+					<TimeStamp><when>2016-08-31T03:34:11Z</when>
+</TimeStamp>
+					<styleUrl>#msn_red-circle030</styleUrl>
+					<Point>
+						<coordinates>109.789191,-7.721409,28.59</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ODP-KTW-FAA/039</name>
+					<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP:2 ;
+CableName:DS-KTW-FE-02-01-05/02.06 ;</description>
+					<TimeStamp><when>2016-01-28T05:04:57Z</when>
+</TimeStamp>
+					<styleUrl>#msn_red-circle030</styleUrl>
+					<Point>
+						<coordinates>109.784463,-7.73779,22.22</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ODP-KTW-FAA/040</name>
+					<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP:2 ;
+CableName:DS-KTW-FE-02-01-05/02.05;</description>
+					<TimeStamp><when>2016-01-28T05:06:05Z</when>
+</TimeStamp>
+					<styleUrl>#msn_red-circle030</styleUrl>
+					<Point>
+						<coordinates>109.784463,-7.734471000000001,24.28</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ODP-KTW-FAA/041</name>
+					<description>Specification ID:ODP-PB-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP:2 ;
+CableName:DS-KTW-FE-02-01-05/02.04.03 ;</description>
+					<TimeStamp><when>2016-01-28T05:07:23Z</when>
+</TimeStamp>
+					<styleUrl>#msn_red-circle030</styleUrl>
+					<Point>
+						<coordinates>109.788342,-7.731247,21.65</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ODP-KTW-FAA/042</name>
+					<description>Specification ID:ODP-CA-8 ;
+Construction Status:LIn Service ;
+TITO:NO ;
+Core Dist. ke ODP:2 ;
+CableName:DS-KTW-FE-02-01-05/02.04.02 ;</description>
+					<TimeStamp><when>2016-01-28T05:07:23Z</when>
+</TimeStamp>
+					<styleUrl>#msn_red-circle030</styleUrl>
+					<Point>
+						<coordinates>109.788058,-7.733604,21.65</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ODP-KTW-FAA/043</name>
+					<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP:2 ;
+CableNameDS-KTW-FE-02-01-05/02.04.01 ;</description>
+					<TimeStamp><when>2016-01-28T05:07:23Z</when>
+</TimeStamp>
+					<styleUrl>#msn_red-circle030</styleUrl>
+					<Point>
+						<coordinates>109.786618,-7.733462,21.65</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ODP-KTW-FAA/044</name>
+					<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP:2 ;
+CableName:DS-KTW-FE-02-01-05/02.04 ;</description>
+					<TimeStamp><when>2016-01-28T05:07:23Z</when>
+</TimeStamp>
+					<styleUrl>#msn_red-circle030</styleUrl>
+					<Point>
+						<coordinates>109.784462,-7.733408,21.65</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ODP-KTW-FAA/045</name>
+					<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP:2 ;
+CableName:DS-KTW-FE-02-01-05/02.03 ;</description>
+					<TimeStamp><when>2016-01-28T05:09:24Z</when>
+</TimeStamp>
+					<styleUrl>#msn_red-circle030</styleUrl>
+					<Point>
+						<coordinates>109.784452,-7.73102,32.32</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ODP-KTW-FAA/046</name>
+					<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP:2 ;
+CableName:DS-KTW-FE-02-01-05/02.01 ;</description>
+					<TimeStamp><when>2016-01-28T05:13:15Z</when>
+</TimeStamp>
+					<styleUrl>#msn_red-circle030</styleUrl>
+					<Point>
+						<coordinates>109.786836,-7.720701999999999,22.86</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ODP-KTW-FAA/120</name>
+					<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP:16 ;
+CableName:DS-KTW-FE-02-01-05/02.12 ;</description>
+					<TimeStamp><when>2016-01-28T04:46:09Z</when>
+</TimeStamp>
+					<styleUrl>#msn_red-circle030</styleUrl>
+					<Point>
+						<coordinates>109.777121,-7.764281,22.66</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ODP-KTW-FAA/121</name>
+					<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP:16 ;
+CableName:DS-KTW-FE-02-01-05/02.11 ;</description>
+					<TimeStamp><when>2016-01-28T04:51:13Z</when>
+</TimeStamp>
+					<styleUrl>#msn_red-circle030</styleUrl>
+					<Point>
+						<coordinates>109.778244,-7.760158000000001,23.06</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ODP-KTW-FAA/122</name>
+					<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP:16 ;
+CableName:DS-KTW-FE-02-01-05/02.10 ;</description>
+					<TimeStamp><when>2016-01-28T04:52:47Z</when>
+</TimeStamp>
+					<styleUrl>#msn_red-circle030</styleUrl>
+					<Point>
+						<coordinates>109.779514,-7.755928,23.78</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ODP-KTW-FAA/119</name>
+					<description>Specification ID:ODP-CA-8 ;
+Construction Status:In Service ;
+TITO:NO ;
+Core Dist. ke ODP:1 ;
+CableName:DS-KTW-FE-02-01-05/02.01 ;</description>
+					<LookAt>
+						<gx:TimeSpan>
+							<begin>2015-12-19T04:08:06Z</begin>
+							<end>2016-08-31T03:36:22Z</end>
+						</gx:TimeSpan>
+						<longitude>109.7900223054036</longitude>
+						<latitude>-7.720316191876555</latitude>
+						<altitude>0</altitude>
+						<heading>0.0007466053434241061</heading>
+						<tilt>24.65302326192371</tilt>
+						<range>463.4953514058999</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_red-circle030</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>109.7914534276984,-7.72125817968462,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>TIANG</name>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<Camera>
+						<gx:TimeSpan>
+							<begin>2016-07-27T03:25:53Z</begin>
+							<end>2016-07-27T04:19:43Z</end>
+						</gx:TimeSpan>
+						<gx:ViewerOptions>
+							<gx:option enabled="0" name="historicalimagery"></gx:option>
+							<gx:option enabled="0" name="sunlight"></gx:option>
+							<gx:option name="streetview"></gx:option>
+						</gx:ViewerOptions>
+						<longitude>109.79383</longitude>
+						<latitude>-7.722246000000007</latitude>
+						<altitude>2.499999998386169</altitude>
+						<heading>-134.9567196153612</heading>
+						<tilt>93.77519023992255</tilt>
+						<roll>-6.202081628853858e-14</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_flag332</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>109.7937798684086,-7.722300969063522,22.28921844259274</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:17:03Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon611501</styleUrl>
+					<Point>
+						<coordinates>109.7932589942012,-7.722019708506284,18.42</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-07-27T04:19:04Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon6125010</styleUrl>
+					<Point>
+						<coordinates>109.7927562302706,-7.721797751057177,27.56</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:16:35Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon611501</styleUrl>
+					<Point>
+						<coordinates>109.7924859822299,-7.721653013238338,18.31</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:16:27Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon611501</styleUrl>
+					<Point>
+						<coordinates>109.7922100169632,-7.721533682307298,18.7</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:16:16Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon611501</styleUrl>
+					<Point>
+						<coordinates>109.7918153983829,-7.721364695635359,19.81</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:16:03Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon611501</styleUrl>
+					<Point>
+						<coordinates>109.7915281987145,-7.721236894565449,21.78</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:15:25Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon611501</styleUrl>
+					<Point>
+						<coordinates>109.7912297537612,-7.721101595266643,22.14</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:15:20Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon611501</styleUrl>
+					<Point>
+						<coordinates>109.7908683289677,-7.720953551935641,23.44</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:15:04Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon611501</styleUrl>
+					<Point>
+						<coordinates>109.79035967902,-7.720757638991681,24.5</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:14:53Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon611501</styleUrl>
+					<Point>
+						<coordinates>109.7898061797683,-7.7205817823985,25</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:14:42Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon611501</styleUrl>
+					<Point>
+						<coordinates>109.7891390022666,-7.720405124187858,26.63</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:14:31Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon611501</styleUrl>
+					<Point>
+						<coordinates>109.7886590093099,-7.72030013722053,28.25</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-08-31T03:36:04Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7888885189179,-7.720889352513009,26.52</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-08-31T03:35:42Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7891996263588,-7.721415168662422,26.76</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:14:22Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon611501</styleUrl>
+					<Point>
+						<coordinates>109.7882491495237,-7.720159072173941,29.25</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:14:17Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon6120001</styleUrl>
+					<Point>
+						<coordinates>109.7879706662459,-7.720070213902563,30.25</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:14:01Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61641</styleUrl>
+					<Point>
+						<coordinates>109.7873140791394,-7.720002480308747,29.36</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:13:27Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61641</styleUrl>
+					<Point>
+						<coordinates>109.7869901741922,-7.719953100733168,25.18</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:13:15Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61320</styleUrl>
+					<Point>
+						<coordinates>109.7869500129083,-7.720356079751187,22.86</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:13:05Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7868495313308,-7.720753317573503,21.59</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:12:56Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7867444570744,-7.721074794335205,21.15</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:12:46Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7866323325859,-7.721532877793105,22.38</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:12:29Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7865332801144,-7.72193174160839,21.25</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:12:19Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7864404550897,-7.722344183357043,19.63</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:12:09Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7863586087727,-7.722723532965487,18.77</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:12:01Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7862816163654,-7.723054496512554,18.69</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:11:49Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7862355790773,-7.723233041117793,18.45</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:11:38Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7861361549285,-7.723584895963663,18.49</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:11:27Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7860326797172,-7.723995276764462,20.69</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:11:18Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7859229714535,-7.724419944758902,22.6</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:11:08Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7858219221236,-7.724835422369124,23.97</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:10:59Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7857152008532,-7.725240518919819,25.9</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:10:49Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7856094406012,-7.72566811318948,27.62</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:10:38Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.785484745672,-7.726117061002291,27.9</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:10:29Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7854158741588,-7.72646823663196,27.69</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:10:19Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7853039042389,-7.726864231470875,27.17</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:10:09Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7852059807732,-7.727277300416128,26</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:10:00Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7851091659477,-7.72765967093358,25.66</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:09:50Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7850309517936,-7.728089023624384,27.7</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:09:39Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7849343885231,-7.728560225853609,31.34</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:09:29Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7848287719536,-7.728978196343412,31.75</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:09:24Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7847486128361,-7.729304679639501,32.32</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:09:16Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7846882168808,-7.729479645945612,32.68</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:09:06Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7846158668118,-7.729713479693094,32.19</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<LookAt>
+						<gx:TimeSpan>
+							<begin>2016-01-28T04:22:25Z</begin>
+							<end>2016-01-28T06:52:27Z</end>
+						</gx:TimeSpan>
+						<longitude>109.7847885041672</longitude>
+						<latitude>-7.730202773678194</latitude>
+						<altitude>0</altitude>
+						<heading>3.101040814426927e-13</heading>
+						<tilt>0</tilt>
+						<range>210.6273646908581</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_icon611501</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>109.7845705545277,-7.730060366030643,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:08:48Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.784554594927,-7.730520940440604,30.15</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:08:44Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7845467493818,-7.730828067895645,29.19</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:08:34Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7844856553789,-7.731093908892494,28.68</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:08:11Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61930</styleUrl>
+					<Point>
+						<coordinates>109.7843697199622,-7.731565567304133,27.58</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:08:02Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7844047960678,-7.731934452522635,27.25</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:07:52Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7844464865599,-7.732326339518628,27.09</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:07:42Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.784455306421,-7.732673124947734,25.69</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:07:33Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7844612761189,-7.733040382518044,23.83</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:07:23Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7844709666382,-7.733435401414996,21.65</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:06:35Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7844725743042,-7.733856013552991,22.41</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:06:15Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7844721556997,-7.734081391282049,24.14</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:06:05Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7844734078346,-7.734498945609579,24.28</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:05:56Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7844850749299,-7.734914493647163,22.78</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:05:46Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7844881976114,-7.735282652534474,21.8</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:05:37Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7844925138268,-7.735697796611899,21.81</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:05:29Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7844978047933,-7.736117160832119,22.24</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:05:18Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.784509796148,-7.7365713412114,22.94</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:05:14Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7845155686276,-7.736992576287338,23.04</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:05:04Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7845180849639,-7.737381418898209,22.6</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:04:57Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7844937012807,-7.737794457628672,22.22</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:04:51Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7844428628326,-7.738067190822719,21.7</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:04:47Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7843863809172,-7.738337561176435,20.97</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:04:39Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7843151504015,-7.738658643099225,20.89</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:04:30Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7842146362227,-7.73905101116581,20.79</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:04:24Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7841059515098,-7.739461351089906,20.89</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:04:15Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7839938732652,-7.739872853703253,20.85</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:04:05Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7839067840542,-7.740252947485716,21.73</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:03:55Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7837925215081,-7.740667398465086,21.68</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:03:46Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7836903799797,-7.741071443964255,22.04</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:03:38Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7835896090083,-7.741451953694712,21.96</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:03:32Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7834703650944,-7.741844694431837,21.9</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:03:23Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7833705386788,-7.742227452230766,21.73</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:03:13Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7832547971819,-7.742648201379363,21.97</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:03:05Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7831543389688,-7.743036861259445,22.76</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:02:55Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7830178747695,-7.743484037075744,23.79</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:02:46Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7829119151382,-7.74388214307643,24.62</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:02:37Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7827654910266,-7.744348319075371,25.71</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:02:27Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7826444482554,-7.744787872957645,26.26</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:02:17Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7825188510895,-7.745227368854569,27.18</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:02:08Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7823758194583,-7.745658389219514,24.67</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:01:58Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7822778491685,-7.746050133349136,22.56</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<LookAt>
+						<gx:TimeSpan>
+							<begin>2016-01-28T04:22:25Z</begin>
+							<end>2016-01-28T06:52:27Z</end>
+						</gx:TimeSpan>
+						<longitude>109.7824948896394</longitude>
+						<latitude>-7.746407773705929</latitude>
+						<altitude>0</altitude>
+						<heading>-5.212252247251103e-05</heading>
+						<tilt>0</tilt>
+						<range>258.1073487848473</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_icon611501</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>109.7821874483329,-7.746441111364277,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:00:43Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7820722591728,-7.746824875024536,22.22</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:00:37Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7819632449433,-7.747152514256792,21.38</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:00:27Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7817675305675,-7.747501158238176,21.69</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T05:00:17Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7815567492767,-7.747877124287964,20.81</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:57:19Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.781371653069,-7.748114621679609,24.82</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:57:51Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7812802663717,-7.748149739515624,24.37</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:58:35Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.781086,-7.748621,21.54</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:56:58Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7814282918753,-7.748300306776697,25.47</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:56:48Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7815185450452,-7.74840728630296,25.51</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:56:45Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7815535565446,-7.748689931773826,25.05</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:56:35Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7814349285381,-7.749088222203781,25.32</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:56:25Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7813278148549,-7.749477574070806,26.15</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:56:15Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7812384085888,-7.749820141729308,27.44</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:56:06Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.781103445036,-7.750229287509161,26.4</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:55:54Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7809909333582,-7.75064501037652,25.24</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:55:44Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7808703224468,-7.751052558629317,24.81</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:55:34Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7808090374256,-7.751388043931779,24.79</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:54:43Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.78068152994,-7.751821891892025,31.59</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:54:33Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7805873622181,-7.752258310824018,29.89</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:54:23Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7804629594856,-7.752654795583374,27.72</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:54:13Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7803813774895,-7.752958241794477,25.46</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:54:03Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7802604164119,-7.753362239397706,23.63</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:53:59Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7801856295508,-7.753698075331308,23.03</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:53:49Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7800886954491,-7.753980433480289,22.89</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:53:40Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.779978344554,-7.754377955735508,22.83</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:53:34Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7798626666755,-7.754741715500957,22.85</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:53:24Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7797609088624,-7.755121445417037,22.96</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:53:07Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7796314996554,-7.755492580458456,23.59</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:52:47Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7795136366191,-7.755928101604174,23.78</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:52:41Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7794121416478,-7.756292071404136,23.67</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:52:32Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7793034713046,-7.756649484381046,22.37</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:52:22Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7791873984803,-7.757030802653874,21.94</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:52:12Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7790710707782,-7.757434700715039,22.09</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:52:03Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7789409050631,-7.757835254464489,22.61</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:51:59Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7788280639287,-7.758210308157574,23</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:51:48Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7787140960992,-7.758618903456604,23.12</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:51:38Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7785992444953,-7.758992400216308,23.2</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:51:29Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7784842086933,-7.759394597664782,23.82</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:51:24Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7783608369678,-7.75975620450083,23.66</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:51:13Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7782439050219,-7.760157641268897,23.06</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:51:03Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7781205129844,-7.760538631775076,22.92</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:50:59Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7780410570379,-7.760872895775606,22.66</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:50:48Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7779362410567,-7.761224442957446,22.79</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:50:38Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.777787628003,-7.761663120662978,21.92</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:50:28Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7776804996905,-7.762032436403488,22.11</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:50:19Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7775624487985,-7.762427672779146,21.93</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:50:13Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.777448130545,-7.762793456427357,22.25</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:50:03Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.777342313992,-7.763178425819216,22.8</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:49:54Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7772572181958,-7.763582713169723,22.27</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:49:49Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7771800191702,-7.763992952456715,21.18</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:49:38Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7771240846717,-7.764279022735754,21.35</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:49:29Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7770506725046,-7.76470714005189,21.72</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:49:19Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7769657283997,-7.765136493531124,21.56</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:49:13Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7769042886041,-7.765522306171433,21.23</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:49:04Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61182</styleUrl>
+					<Point>
+						<coordinates>109.7769660253786,-7.765766653486421,20.95</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:48:59Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon613501</styleUrl>
+					<Point>
+						<coordinates>109.7770231405104,-7.766092544380671,20.95</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:48:48Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7771024946738,-7.766483437053214,19.53</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:48:31Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7771600619341,-7.766891530186737,17.69</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:47:58Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7772112633649,-7.767198273424079,20.58</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:47:28Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7772939415635,-7.767633977132103,19.83</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:47:19Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7773633715464,-7.768056869737972,20.01</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:47:10Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7774215635219,-7.768440743941012,20.26</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:47:05Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7774492838831,-7.768857563223355,20.7</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:46:55Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7774382630074,-7.769294548344639,21.6</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:46:47Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.777476084285,-7.769704285048495,21.23</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:46:38Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7774959193979,-7.770159611258826,21.04</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:46:30Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7775056698046,-7.770572998924584,21.31</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:46:23Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7775201436573,-7.770917855697273,21.69</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:46:13Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7775421006454,-7.771330300447037,22.33</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:46:09Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7775555540151,-7.771675869743944,22.66</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:45:52Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7775658993097,-7.772015787795035,23.32</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:45:25Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7775731127811,-7.772480746393525,23.07</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:45:16Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7775835131322,-7.772901984016683,21.27</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:44:12Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7776079529835,-7.77328127712605,24.07</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:43:51Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7779317400358,-7.773287187397455,25.17</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:43:38Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7783663899522,-7.773310050052097,23.78</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:43:28Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7788187417543,-7.773334739581239,21.41</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:43:12Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7791932622723,-7.773365825518257,21.47</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:42:59Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7796617395753,-7.773375391469269,20.2</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:42:48Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7800976893091,-7.773413285715989,21.78</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:42:30Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7804665382733,-7.773445493244329,22.81</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:29:37Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7808731941417,-7.773489296393581,21.22</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:29:26Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7814332547634,-7.773519443304643,20.82</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:29:16Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7820480564174,-7.773534940620241,20.64</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:29:05Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7825895309572,-7.773552368766579,21.04</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:28:49Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7831247078529,-7.773565515616742,21.57</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:28:37Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7836459059663,-7.773610719373004,21.3</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:28:25Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.784033777987,-7.773632423338658,21.65</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:28:14Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.78438110604,-7.773673296641672,20.7</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:28:05Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7846704223003,-7.773722379816077,19.97</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:27:54Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7846347447343,-7.774128940332814,18.93</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:27:36Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7845956748207,-7.774604549205358,20.01</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:27:24Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7845681405077,-7.775020093329823,20.85</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:27:08Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7845454784923,-7.775463519978502,21.59</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:26:56Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7845489484494,-7.776009478742067,22.89</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:26:47Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7845905270926,-7.776477654035139,26.44</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:26:30Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.78462558399,-7.777018449326628,29.03</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:26:18Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7846617661573,-7.777348031906205,30.89</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:26:07Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7849724288769,-7.77733891095013,30.41</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:25:56Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.785349755645,-7.777346608153119,28.73</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:25:45Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7856767604012,-7.777355722588197,28.34</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:25:33Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7861080132171,-7.777360373783806,29.59</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:25:16Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.786691,-7.777373,26.71</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:25:04Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.78714120614,-7.777354696474375,24.19</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:24:53Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7871903310776,-7.777063163776258,21.81</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:24:37Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7872188351778,-7.776640414505649,18.4</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:24:24Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7872453938021,-7.776222429833252,20.22</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:23:54Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7873261730252,-7.775776626027343,22.27</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:23:35Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7874412339786,-7.775327539041199,26.8</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:23:12Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.787554980957,-7.77492211698819,26.97</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<TimeStamp><when>2016-01-28T04:22:59Z</when>
+</TimeStamp>
+					<styleUrl>#msn_icon61361</styleUrl>
+					<Point>
+						<coordinates>109.7876448587092,-7.774817951380901,26.37</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TE</name>
+					<description>T;E;7</description>
+					<LookAt>
+						<gx:TimeSpan>
+							<begin>2016-01-28T04:22:25Z</begin>
+							<end>2016-01-28T06:52:27Z</end>
+						</gx:TimeSpan>
+						<longitude>109.7874937975378</longitude>
+						<latitude>-7.774872180148178</latitude>
+						<altitude>0</altitude>
+						<heading>1.693515671379575e-05</heading>
+						<tilt>14.4860352581818</tilt>
+						<range>51.90404358445172</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_icon611501</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>109.7875887955706,-7.774825343086543,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>BTS</name>
+				<Placemark>
+					<name>BTS-KTW-KBM045</name>
+					<description>BTS WINONG KEBUMEN;</description>
+					<LookAt>
+						<gx:TimeSpan>
+							<begin>2016-01-28T04:22:57Z</begin>
+							<end>2016-08-31T03:36:22Z</end>
+						</gx:TimeSpan>
+						<longitude>109.7812708417611</longitude>
+						<latitude>-7.748574803723797</latitude>
+						<altitude>0</altitude>
+						<heading>0.002383004837444397</heading>
+						<tilt>22.56655328490649</tilt>
+						<range>181.7517810011738</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_track402</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>109.7810556559372,-7.748691703594199,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>BTS-KTW-KBM073</name>
+					<description>BTS PATUKREJO;</description>
+					<LookAt>
+						<gx:TimeSpan>
+							<begin>2016-01-28T04:22:57Z</begin>
+							<end>2016-08-31T03:36:22Z</end>
+						</gx:TimeSpan>
+						<longitude>109.7878140630211</longitude>
+						<latitude>-7.775262457527211</latitude>
+						<altitude>0</altitude>
+						<heading>0.0001252004880758433</heading>
+						<tilt>23.31613912474176</tilt>
+						<range>322.4337452596072</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_track402</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>109.7877844423929,-7.774874826052127,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>NEW PLANING</name>
+			<Folder>
+				<name>CALANG</name>
+				<Placemark>
+					<name>SMK Taruna Abdi Bangsa</name>
+					<open>1</open>
+					<description>-7.747602734487324, 109.78239911870583
+
+1001559566</description>
+					<styleUrl>#msn_ranger_station</styleUrl>
+					<Point>
+						<coordinates>109.7823991187058,-7.747602734487325,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>POLYGON</name>
+				<visibility>0</visibility>
+				<Placemark>
+					<name>3MGL-DBS24-PT2UL-KTW-FAA010-SMK TARUNA AB</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									109.7821946288041,-7.746689906125913,0 109.7816739899992,-7.746976649442685,0 109.7815260811167,-7.747443242964288,0 109.7818718651147,-7.747971460647974,0 109.7824978207331,-7.748159410732408,0 109.7830528132468,-7.747821387016636,0 109.7831462194642,-7.747275192569305,0 109.7828363937607,-7.746797329045329,0 109.7821946288041,-7.746689906125913,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>NEW CLOSURE</name>
+			</Folder>
+			<Folder>
+				<name>NEW SLACK</name>
+			</Folder>
+			<Folder>
+				<name>NEW KABEL</name>
+				<open>1</open>
+				<Placemark>
+					<name>AC-OF-SM-12D</name>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							109.7937842508331,-7.722315229681451,0 109.7936842295668,-7.722203305486402,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>TIANG</name>
+				<Folder>
+					<name>TE</name>
+				</Folder>
+				<Folder>
+					<name>TN</name>
+				</Folder>
+			</Folder>
+			<Folder>
+				<name>NEW ODP</name>
+				<Placemark>
+					<name>NEW ODP-KTW-FAA/010 (UNLOCK)</name>
+					<open>1</open>
+					<description>ODP-KTW-FAA/010
+FAA/D02/010.01
+ODP-SOLID-PB-8
+SPL 1:16-01
+CORE 16
+TFO0ED6ZGO4D
+Depan Smk Taruna Abdi Bangsa
+Jl. Raya Mirit
+Winong Kulon, Winong
+Kebumen
+-7.747153°
+109.781960°
+</description>
+					<LookAt>
+						<gx:TimeSpan>
+							<begin>2016-01-28T04:22:25Z</begin>
+							<end>2016-01-28T06:52:27Z</end>
+						</gx:TimeSpan>
+						<longitude>109.781901143802</longitude>
+						<latitude>-7.747272917802378</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0001398052103872721</heading>
+						<tilt>13.06223301424561</tilt>
+						<range>79.8851756004873</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_grn-circle</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>109.78196,-7.747153,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,21 @@
+ODP ID,Port Number,Optical Loss (dB),Reflectance (dB),Test Result,Test Date,Engineer,Notes
+ODP-001,Port-1,0.32,-45.2,Pass,2024-01-18,Sugeng,Good quality
+ODP-001,Port-2,0.28,-47.1,Pass,2024-01-18,Sugeng,Good quality
+ODP-001,Port-3,0.35,-44.8,Pass,2024-01-18,Sugeng,Good quality
+ODP-001,Port-4,0.41,-42.3,Pass,2024-01-18,Sugeng,Acceptable
+ODP-002,Port-1,0.29,-46.5,Pass,2024-01-18,Sugeng,Good quality
+ODP-002,Port-2,0.52,-38.9,Fail,2024-01-18,Sugeng,Requires cleaning
+ODP-002,Port-3,0.33,-45.1,Pass,2024-01-18,Sugeng,Good quality
+ODP-002,Port-4,0.37,-43.7,Pass,2024-01-18,Sugeng,Good quality
+ODP-003,Port-1,0.31,-46.2,Pass,2024-01-19,Rudi,Good quality
+ODP-003,Port-2,0.34,-44.9,Pass,2024-01-19,Rudi,Good quality
+ODP-003,Port-3,0.28,-47.3,Pass,2024-01-19,Rudi,Excellent
+ODP-003,Port-4,0.36,-44.1,Pass,2024-01-19,Rudi,Good quality
+ODP-004,Port-1,0.42,-42.5,Pass,2024-01-19,Rudi,Acceptable
+ODP-004,Port-2,0.38,-43.8,Pass,2024-01-19,Rudi,Good quality
+ODP-004,Port-3,0.33,-45.6,Pass,2024-01-19,Rudi,Good quality
+ODP-004,Port-4,0.29,-46.8,Pass,2024-01-19,Rudi,Good quality
+ODP-005,Port-1,0.35,-44.3,Pass,2024-01-20,Sugeng,Good quality
+ODP-005,Port-2,0.31,-45.9,Pass,2024-01-20,Sugeng,Good quality
+ODP-005,Port-3,0.40,-43.1,Pass,2024-01-20,Sugeng,Acceptable
+ODP-005,Port-4,0.34,-45.2,Pass,2024-01-20,Sugeng,Good quality
