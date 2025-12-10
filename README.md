@@ -237,7 +237,7 @@ Quality Score = w1×PowerScore + w2×DistanceScore +
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/jerico-c/fo-analysis/)
 cd fiber-optic-analyzer
 
 # Backend setup
